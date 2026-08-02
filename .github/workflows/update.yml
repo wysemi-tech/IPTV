@@ -3,7 +3,7 @@ name: 更新中国大陆直播源
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 2 * * *"
+    - cron: "17 */6 * * *"
 
 permissions:
   contents: write
@@ -15,6 +15,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -23,7 +24,7 @@ jobs:
       - name: 运行测试
         run: python -m unittest discover -s tests -v
       - name: 聚合订阅
-        run: python src/build.py
+        run: python src/build.py --workers 48 --timeout 5 --candidate-limit 4 --min-speed-kbps 1000
       - name: 提交更新
         run: |
           if git diff --quiet -- dist/china.m3u8; then
@@ -35,4 +36,3 @@ jobs:
           git add dist/china.m3u8
           git commit -m "chore: 更新中国大陆直播源"
           git push
-

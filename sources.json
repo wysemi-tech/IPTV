@@ -1,18 +1,33 @@
 {
   "sources": [
     {
-      "name": "Tvlist 国内电视台",
-      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B0202509.m3u",
+      "name": "vbskycn 自动扫描 IPv4",
+      "url": "https://live.zbds.top/tv/iptv4.m3u",
       "enabled": true
     },
     {
-      "name": "Tvlist 移动 IPv6 IPTV",
-      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E7%A7%BB%E5%8A%A8IPV6IPTV%E7%9B%B4%E6%92%AD%E6%BA%90.m3u",
+      "name": "Guovin 自动测速 IPv4 输出",
+      "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
       "enabled": true
     },
     {
-      "name": "IPTV-org CN 分类（可选，可能混入境外中文频道）",
+      "name": "IPTV-org 中国候选",
       "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+      "enabled": true
+    },
+    {
+      "name": "YueChan 精简候选",
+      "url": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "enabled": false
+    },
+    {
+      "name": "ChinaIPTV 自动更新候选",
+      "url": "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
+      "enabled": false
+    },
+    {
+      "name": "myIPTV IPv4（个人中转较多，默认禁用）",
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u",
       "enabled": false
     }
   ]
