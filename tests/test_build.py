@@ -26,6 +26,8 @@ https://example.com/shop.m3u8
 https://example.com/nhk.m3u8
 #EXTINF:-1 tvg-country="CN",J2
 https://example.com/j2.m3u8
+#EXTINF:-1 group-title="更新时间",20260802 04:39
+https://example.com/update.m3u8
 """
 
 
@@ -206,7 +208,7 @@ class BuildTests(unittest.TestCase):
 
     def test_parse(self):
         entries = parse_m3u(SAMPLE)
-        self.assertEqual(6, len(entries))
+        self.assertEqual(7, len(entries))
         self.assertEqual("CCTV-1 综合 HD", entries[0].name)
 
     def test_filter_group_and_render(self):

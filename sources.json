@@ -1,6 +1,11 @@
 {
   "sources": [
     {
+      "name": "BurningC4 中国 IPTV 自动更新 IPv4",
+      "url": "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
+      "enabled": false
+    },
+    {
       "name": "vbskycn 自动扫描 IPv4",
       "url": "https://live.zbds.top/tv/iptv4.m3u",
       "enabled": true
@@ -16,6 +21,21 @@
       "enabled": true
     },
     {
+      "name": "CCSH 每日更新精简候选",
+      "url": "https://raw.githubusercontent.com/CCSH/IPTV/main/live_lite.m3u",
+      "enabled": true
+    },
+    {
+      "name": "Kimentanm APTV 候选（个人中转较多）",
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "enabled": true
+    },
+    {
+      "name": "Free-TV 中国精简候选",
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_china.m3u8",
+      "enabled": true
+    },
+    {
       "name": "YueChan 精简候选",
       "url": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
       "enabled": false
@@ -28,6 +48,16 @@
     {
       "name": "myIPTV IPv4（个人中转较多，默认禁用）",
       "url": "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u",
+      "enabled": false
+    },
+    {
+      "name": "YanG Gather（清单维护标记较旧，默认禁用）",
+      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "enabled": false
+    },
+    {
+      "name": "fanmingming IPv6（地区运营商线路，默认禁用）",
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
       "enabled": false
     }
   ]

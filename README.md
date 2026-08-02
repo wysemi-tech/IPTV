@@ -42,7 +42,7 @@ python src/build.py --workers 48 --timeout 5 --candidate-limit 4 --min-speed-kbp
 python -m unittest discover -s tests -v
 ```
 
-上游列表在 `sources.json`，来源评估见 `docs/source-research.md`。候选仓库不是频道权利人，也不能保证每条地址长期有效；新增来源时必须重新探测并尊重频道、平台和当地法律规定。
+上游列表在 `sources.json`，来源评估见 `docs/source-research.md` 和 `docs/github-source-expansion.md`。候选仓库不是频道权利人，也不能保证每条地址长期有效；新增来源时必须重新探测并尊重频道、平台和当地法律规定。
 
 ## 说明
 

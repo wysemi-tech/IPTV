@@ -28,6 +28,7 @@ BLOCKED_TEXT = (
     "hong kong", "adult", "xxx", "成人", "购物", "購物", "导购", "測試", "测试",
     "韩国", "日本", "美国", "英国", "法国", "德国", "俄罗斯", "海外",
     "nhk", "abn china", "angel tv", "ando tv", "tv brics",
+    "更新时间", "维护时间", "维护内容", "温馨提示", "免费订阅", "请勿贩卖",
 )
 
 BLOCKED_NAMES = {"j2", "cna", "home plus"}
@@ -222,15 +223,20 @@ def _stream_identity(url: str) -> Tuple[str, Optional[int], str, str]:
 
 def select_verified(candidates: Iterable[VerifiedEntry], per_channel: int = 3) -> List[VerifiedEntry]:
     candidate_list = [candidate for candidate in candidates if candidate.probe.ok]
-    identity_channels: Dict[Tuple[str, Optional[int], str, str], set] = {}
+    identity_channels: Dict[Tuple[str, Tuple[str, Optional[int], str, str]], set] = {}
     for candidate in candidate_list:
-        identity = _stream_identity(candidate.probe.final_url)
-        identity_channels.setdefault(identity, set()).add(channel_key(candidate.entry.name))
+        for kind, url in (("original", candidate.entry.url), ("final", candidate.probe.final_url)):
+            identity = (kind, _stream_identity(url))
+            identity_channels.setdefault(identity, set()).add(channel_key(candidate.entry.name))
     conflicting = {identity for identity, channels in identity_channels.items() if len(channels) > 1}
 
     grouped: Dict[str, List[VerifiedEntry]] = {}
     for candidate in candidate_list:
-        if _stream_identity(candidate.probe.final_url) not in conflicting:
+        identities = {
+            ("original", _stream_identity(candidate.entry.url)),
+            ("final", _stream_identity(candidate.probe.final_url)),
+        }
+        if not identities & conflicting:
             grouped.setdefault(channel_key(candidate.entry.name), []).append(candidate)
 
     selected: List[VerifiedEntry] = []
@@ -313,7 +319,6 @@ def aggregate(playlists: Iterable[str]) -> List[Entry]:
         key=lambda item: (
             GROUP_ORDER[channel_group(item.name, item.attr_dict().get("group-title", ""))],
             normalized_name(item.name),
-            item.url,
         ),
     )
 
