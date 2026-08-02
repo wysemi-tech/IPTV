@@ -45,4 +45,3 @@ python -m unittest discover -s tests -v
 本项目不存储或转码任何视频，只整理第三方公开播放地址。直播源具有地域、运营商和时效限制；能被收录不代表在所有网络均可播放。若权利人要求移除某个公开地址，请提交 Issue。
 
 参考项目：[imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)。
-

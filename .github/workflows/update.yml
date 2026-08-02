@@ -1,0 +1,38 @@
+name: 更新中国大陆直播源
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 2 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-playlist
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 运行测试
+        run: python -m unittest discover -s tests -v
+      - name: 聚合订阅
+        run: python src/build.py
+      - name: 提交更新
+        run: |
+          if git diff --quiet -- dist/china.m3u8; then
+            echo "直播源没有变化"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/china.m3u8
+          git commit -m "chore: 更新中国大陆直播源"
+          git push
+

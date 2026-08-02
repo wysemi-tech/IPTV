@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="C14" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8K.png" tvg-name="CCTV8K",CCTV-8K
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV1
+http://112.123.206.32:808/hls/1/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV1
+http://112.46.105.20:8009/hls/501/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV1
+http://1b6467f415.iok.la:9931/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV1
+http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A01" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" tvg-name="CCTV1",CCTV-1
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV1
+http://play.kankanlive.com/live/1661761962676984.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV10
+http://110.53.52.63:8888/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV10
+http://112.46.105.20:8009/hls/506/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV10
+http://58.17.48.228:808/hls/10/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV10
+http://58.57.40.22:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV10
+http://60.29.124.66:6080/hls/21/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A11" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" tvg-name="CCTV10",CCTV-10
+http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw30319478_-185824076/ott.mobaibox.com/PLTV/3/224/3221228286/index.m3u8?icpid=3&RTS=1668594824&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="å¤®è§†",CCTV11
+http://112.46.105.20:8009/hls/11/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV11
+http://119.32.12.17:2901/udp/224.1.100.44:11111
+#EXTINF:-1 group-title="å¤®è§†",CCTV11
+http://125.42.150.89:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="å¤®è§†",CCTV11
+http://60.29.124.66:6080/hls/22/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV11
+http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A12" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" tvg-name="CCTV11",CCTV-11
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw105619488_1866436632/ott.mobaibox.com/PLTV/3/224/3221228289/index.m3u8?icpid=3&RTS=1668594900&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="å¤®è§†",CCTV12
+http://110.53.52.63:8888/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV12
+http://112.46.105.20:8009/hls/507/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV12
+http://219.135.180.210:18888/hls/12/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV12
+http://58.19.43.46:9901/tsfile/live/1031_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A13" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" tvg-name="CCTV12",CCTV-12
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw185877003_-533945400/ott.mobaibox.com/PLTV/3/224/3221228401/index.m3u8?icpid=3&RTS=1668594980&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="å¤®è§†",CCTV12
+https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV13
+http://112.46.105.20:8009/hls/13/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A14" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" tvg-name="CCTV13",CCTV-13
+http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw259647455_-1559913959/ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8?icpid=3&RTS=1668595054&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="å¤®è§†",CCTV13
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV13
+http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV13
+https://event.pull.hebtv.com/jishi/cp1.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV13
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV14
+http://110.53.52.63:8888/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV14
+http://112.46.105.20:8009/hls/14/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV14
+http://58.57.40.22:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV14
+http://60.29.124.66:6080/hls/25/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A15" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" tvg-name="CCTV14",CCTV-14
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094424/ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8?icpid=3&RTS=1668595134&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="å¤®è§†",CCTV14
+https://event.pull.hebtv.com/jishi/cp2.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV15
+http://110.53.52.63:8888/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV15
+http://112.46.105.20:8009/hls/15/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV15
+http://58.57.40.22:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV15
+http://60.29.124.66:6080/hls/26/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A16" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" tvg-name="CCTV15",CCTV-15
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw434828587_188325560/ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8?icpid=3&RTS=1668595229&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="å¤®è§†",CCTV15
+http://gmxw.7766.org:808/hls/102/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV16
+http://111.43.126.240:9003/hls/86/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV16
+http://183.11.239.36:808/hls/169/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV16
+http://58.17.48.228:808/hls/25/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A17" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" tvg-name="CCTV16",CCTV-16
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV16
+http://gmxw.7766.org:808/hls/169/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV17
+http://111.43.126.240:9003/hls/30/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV17
+http://120.238.94.10:9901/tsfile/live/1048_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV17
+http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV17
+http://219.135.180.210:18888/hls/24/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A18" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" tvg-name="CCTV17",CCTV-17
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353299/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?icpid=3&RTS=1668595278&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="å¤®è§†",CCTV17
+https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV2
+http://112.46.105.20:8009/hls/502/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV2
+http://219.135.180.210:18888/hls/2/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV2
+http://58.19.43.46:9901/tsfile/live/1021_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV2
+http://61.136.172.236:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A02" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" tvg-name="CCTV2",CCTV-2
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1668594088&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="å¤®è§†",CCTV2
+https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV3
+http://112.101.78.50:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV3
+http://112.46.105.20:8009/hls/3/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV3
+http://120.76.248.139/live/bfgd/4200000062.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV3
+http://58.221.214.82:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A03" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" tvg-name="CCTV3",CCTV-3
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV3
+http://gmxw.7766.org:808/hls/91/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV4
+http://112.46.105.20:8009/hls/4/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV4
+http://112.46.85.60:8009/hls/4/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV4
+http://120.76.248.139/live/bfgd/4200000063.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A04" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" tvg-name="CCTV4",CCTV-4
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="å¤®è§†",CCTV4
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV4
+https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV5+
+http://110.53.52.63:8888/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV5+
+http://111.43.126.240:9003/hls/81/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV5
+http://112.46.105.20:8009/hls/503/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV5
+http://120.76.248.139/live/bfgd/4200000064.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV5+
+http://120.76.248.139/live/bfgd/4200000246.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV5
+http://183.11.239.36:808/hls/93/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV5
+http://58.17.48.228:808/hls/5/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV5+
+http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV5
+http://60.29.124.66:6080/hls/16/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A05" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-name="CCTV5",CCTV-5
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A06" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" tvg-name="CCTV5+",CCTV-5+
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV5+
+https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV6
+http://112.46.105.20:8009/hls/6/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV6
+http://58.17.48.228:808/hls/6/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV6
+http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV6
+http://60.29.124.66:6080/hls/17/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A07" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" tvg-name="CCTV6",CCTV-6
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV6
+https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV7
+http://112.46.105.20:8009/hls/504/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV7
+http://112.46.85.60:8009/hls/504/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV7
+http://183.11.239.36:808/hls/25/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV7
+http://60.29.124.66:6080/hls/18/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A08" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" tvg-name="CCTV7",CCTV-7
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/wh7f454c46tw3984282630_1427246842/ott.mobaibox.com/PLTV/3/224/3221228283/index.m3u8?icpid=3&RTS=1668594483&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="å¤®è§†",CCTV7
+https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV8
+http://112.46.105.20:8009/hls/8/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV8
+http://183.11.239.36:808/hls/96/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV8
+http://58.17.48.228:808/hls/8/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV8
+http://60.29.124.66:6080/hls/19/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A09" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" tvg-name="CCTV8",CCTV-8
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV8
+http://gmxw.7766.org:808/hls/96/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV9
+http://110.53.52.63:8888/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV9
+http://112.46.105.20:8009/hls/509/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV9
+http://183.11.239.36:808/hls/27/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV9
+http://58.17.48.228:808/hls/9/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTV9
+http://60.29.124.66:6080/hls/20/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A10" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" tvg-name="CCTV9",CCTV-9
+http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw4254168827_1850088835/ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8?icpid=3&RTS=1668594753&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="C24" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" tvg-name="å¤®è§†å°çƒ",å¤®è§†å°çƒ
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†",CCTVé£Žäº‘è¶³çƒ
+https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A19" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CETV1.png" tvg-name="ä¸­å›½æ•™è‚²1å°",ä¸­å›½æ•™è‚²1å°
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
+#EXTINF:-1 group-title="å¤®è§†" tvg-id="A20" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CETV2.png" tvg-name="ä¸­å›½æ•™è‚²2å°",ä¸­å›½æ•™è‚²2å°
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00ãnvæÚ$z{-®éÜj×2æG§‡rææWBö6†ææVÆÆ—fR÷F7BÖG£2æfÇ`¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î‹úÞ˜:Ž{»ÎYŽš)˜0¦‡GG¢ò÷–Æ’ÖÆ—fRÖ†Ç2æ†f×BææWBövçGböF'GbæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜	®XÉnXëþ{»ÎY€¦‡GG¢ò÷7G&VÓRæ¦ÆçGbæ6â÷F‡‚÷6BöÆ—fRæÓ7Sƒ÷¦¦–Æ@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜	®kŠÞ{»ÎY€¦‡GG3¢ò÷Æ’æ¶æ¶æÆ—fRæ6öÒöÆ—fRóccsc“c#csc“ƒBæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜.[›>KˆZYp¦‡GG¢òöÆ—fRæG††×Bæ6ã£“ƒ÷Gbós#‚ÓæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜.iˆÎ{»ÎYŽš)˜0¦‡GG¢òöÂæ7§Gf6Æ÷VBæ6öÒö6†ææVÇ2öÆçF–âõ5‡7V–6†æsós#æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜)>[yîik™{°¦‡GG¢òöÆ—fRæG††×Bæ6ã£“ƒ÷Gbó3ƒÓæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜)>[yîik™{°¦‡GG¢ò÷GgVÆÂæG††×Bæ6ã£“ƒ÷Gbó3ƒÓæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜;ŽYøî{»ÎY€¦‡GG¢ò÷GgVÆÂæG††×Bæ6ã£“ƒ÷Gbóc#RÓæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜;ÞX[{»ÎY€¦‡GG3¢òöÆ—fV6FâæF×‡–FÖ–âæ6öÒö†Ç2÷†¦GVÆâæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"GfrÖ–CÒ$S""GfrÖÆövóÒ&‡GG3¢òöÖ—'&÷"æv‡&÷‡’æ6öÒö‡GG3¢ò÷&ræv—F‡V'W6W&6öçFVçBæ6öÒ÷vævÆ–æFÂõEfÆövòöÖ–âö–ÖröG6¦2çær"GfrÖæÖSÒ.˜;Þ[ˆ.Xš~YË¢"Î˜;Þ[ˆ.Xš~YË ¦‡GG¢òõ³#C“£ƒƒs£S3£#££%Ó£ccö6×3ö6ƒ“““#2ö–æFW‚æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜H.[	NZI®ijþik™{¾{»ÎY€¦‡GG3¢òöÆ—fW7G&VÒÖ'Bææ×Gbæ6âöæ×Gbó#3C–vVæW&ÂæÓ7Sƒ÷G…6V7&WCÖSCCCssS&&3V6FVVCVc3csFgG…F–ÖSÓssSƒƒ ¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜H.h™ŽXX¾iy~yK^ŠxnXû ¦‡GG¢òóã’ãƒã3ƒ£ƒö†Ç2ôcS•&ƒtu"ôcS•&ƒtu%öÆ—fRæÓ7Sƒ÷¦æV–Ö@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜Iî[yîKˆZYp¦‡GG¢ò÷–Æ’×V&Æ—6‚ç—§‡rææWv—&6Æ÷VBæ6öÒöæWv—&6Æ÷VB×—§‡r÷—§‡uó#““#S“ƒC2æÓ7Sƒ÷§¦†V@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜Iî[yîK¨ÎZYp¦‡GG¢ò÷–Æ’×V&Æ—6‚ç—§‡rææWv—&6Æ÷VBæ6öÒöæWv—&6Æ÷VB×—§‡r÷—§‡uó#““#S““3bæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜Iî[yîK¨ÎZYp¦‡GG¢ò÷–Æ’×V&Æ—6‚ç—§‡rææWv—&6Æ÷VBæ6öÒöæWv—&6Æ÷VB×—§‡r÷—§‡uó#““#S““3bæÓ7Sƒ÷§¦†V@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜Y.k8ž{»ÎY€¦‡GG3¢ò÷Æ’æ¶æ¶æÆ—fRæ6öÒöÆ—fRós#33“#cc““sRæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨nKˆ~[yî[ÛŠx`¦‡GG¢òó#2ãCbãc"ã#C£ƒ2÷G6Ç6Æ—fR÷evÆäW¥Rö†Ç2öÆ—fU÷6BæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨nKˆ~[yî[ÛŠxnih~ˆ› ¦‡GG¢òó#2ãCbãc"ã#C£ƒröCF6T#óöÆ—fRæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨nKˆ~[yîzyiY¦‡GG¢òó#2ãCbãc"ã#C£ƒrô7£uu#‚óƒöÆ—fRæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨nKˆ~‹ÛÞ{»ÎY€¦‡GG¢òöÆ—fRÖV6†÷Gbæ6Fçf–FVòç'RöV6†÷GböV6†÷Gbç6G÷Æ–Æ—7BæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨nKˆ~‹ÛÞ{»ÎY€¦‡GG¢òöÇ2ç–æwF–æræfÒöÆ—fRó#s2æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨nYŽ[yÞ{»ÎY€¦‡GG3¢ò÷——VÆÂæ6&ræ6âöÆ—fRö†V6‡VçGc÷Æ–Æ—7BæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨nYê¾kþ{»ÎY€¦‡GG3¢ò÷Æ’×6‚çV¶Æ—fRæ6öÒöÆ—fRócs#3ccƒCscCc#ƒBæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨njÚn™¨n{»ÎY€¦‡GG3¢ò÷——VÆÂæ6&ræ6âöÆ—fR÷vÇGg¦‚÷Æ–Æ—7BæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨nkŽ[yÞ{»ÎY€¦‡GG3¢ò÷——VÆÂæ6&ræ6âöÆ—fR÷–7Gc÷Æ–Æ—7BæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨nkÞi¦‡GG¢òó#ãsbã#C‚ã3’öÆ—fRö&fvBóC#c‚æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨n{+î[ÚžZûÎŠx`¦‡GG¢ò÷¦'†6Æ—fRæ6&ræ6ã£“3Röó"öÇ5óRç7G&VÒ÷Æ–Æ—7BæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨n˜xÞ[¨nXiÎiÙ¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓcbgFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨n˜xÞ[¨n[	XKð¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓcRgFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨n˜xÞ[¨n[ÛŠx`¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓc2gFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨n˜xÞ[¨nih~KÙ0¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓcBgFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨n˜xÞ[¨nik™{°¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓcgFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨n˜xÞ[¨nik™{°¦‡GG¢ò÷7G&VÓ2ç†–æ6—G’æ6âóR÷6BöÆ—fRæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨n˜xÞ[¨ni{n[	 ¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓcrgFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨n˜xÞ[¨nzyiY¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓc"gFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨n˜xÞ[¨nz{¾Xª€¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓc‚gFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜xÞ[¨n™9Îj({»ÎY€¦‡GG3¢ò÷FÇ3æ7Æ—f–æræ6öÒö6ƒæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"GfrÖ–CÒ.˜xÞkŠž{¸þX[‚"GfrÖÆövóÒ&‡GG3¢òóã#Bç‡—¢öÆövòþ˜xÞkŠž{¸þX[‚çær"GfrÖæÖSÒ.˜xÞkŠž{¸þX[‚"Î˜xÞkŠž{¸þX[€¦‡GG3¢òövF7V62çcæÖ²övF7V62ö7v¦BæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜yYÙ¾ik™{¾š)˜0¦‡GG¢òö¦–çFâ×GbÖ÷&’Ö†Ç2æ§7Gbæ6öÒö¦–çFâ×GbÖ÷&’ö¦–çFå÷‡ræÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜yYÙ¾ik™{¾š)˜0¦‡GG¢òö¦–çFâ×GbÖ÷&’Ö†Ç2æ§7Gbæ6öÒö¦–çFâ×GbÖ÷&’ö¦–çFå÷‡ræÓ7Sƒ÷¦¦–æw6@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜y[yÞKšiÙ¦‡GG¢òöÆ—fRæ¦–æ6‡Vç&×Bæ6öÓ£“öÆ—fRö¦7†2æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜y[yÞKšiÙ¦‡GG¢òöÆ—fRæ¦–æ6‡Vç&×Bæ6öÓ£“öÆ—fRö¦7†2æÓ7Sƒ÷§6–6@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜y[yÞik™{¾{»ÎY€¦‡GG¢òó3’ã#2ãƒã“£“öÆ—fR÷¦‡‡ræÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜y[yÞik™{¾{»ÎY€¦‡GG¢òöÆ—fRæ¦–æ6‡Vç&×Bæ6öÓ£“öÆ—fR÷¦‡‡ræÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜y[yÞik™{¾{»ÎY€¦‡GG¢òöÆ—fRæ¦–æ6‡Vç&×Bæ6öÓ£“öÆ—fR÷¦‡‡ræÓ7Sƒ÷§6–6@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜y[yÞ{»ÎY€¦‡GG3¢ò÷Æ’æ¶æ¶æÆ—fRæ6öÒöÆ—fRóc#SC“c#“Sƒ“’æÓ7Sƒ÷¦væ@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜y[›>{»ÎY€¦‡GG¢òöÆ—fRç–çW&Âæ6öÒ÷f–FVò÷3CÔ¥Ebö–æFW‚æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜y[›>{»ÎY€¦‡GG¢òöÆ—fRç–çW&Âæ6öÒ÷f–FVò÷3CÔ¥Ebö–æFW‚æÓ7Sƒ÷§—Væ@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜yk™nik™{¾{»ÎY€¦‡GG¢òö¦–æ‡R×GbÖ†Ç2æ6Òæ§7Gbæ6öÒö¦–æ‡R×Gbö¦–æ‡W¦‚æÓ7Sƒ÷¦¦–æw6@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"GfrÖ–CÒ$SB"GfrÖÆövóÒ&‡GG3¢òöÖ—'&÷"æv‡&÷‡’æ6öÒö‡GG3¢ò÷&ræv—F‡V'W6W&6öçFVçBæ6öÒ÷vævÆ–æFÂõEfÆövòöÖ–âö–Örö§7‡Bçær"GfrÖæÖSÒ.˜yˆ›.ZÚnZ""Î˜yˆ›.ZÚnZ ¦‡GG¢òõ³#C“£ƒƒs£S3£#££%Ó£ccö6×3ö6ƒ““““Bö–æFW‚æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î˜y››{ª®Zéà¦‡GG¢òóS‚ãSrãCã##£““÷G6f–ÆRöÆ—fRósóæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"GfrÖ–CÒ$S2"GfrÖÆövóÒ&‡GG3¢òöÖ—'&÷"æv‡&÷‡’æ6öÒö‡GG3¢ò÷&ræv—F‡V'W6W&6öçFVçBæ6öÒ÷vævÆ–æFÂõEfÆövòöÖ–âö–Örö§–§2çær"GfrÖæÖSÒ.˜y››{ª®Zéâ"Î˜y››{ª®Zéà¦‡GG¢òõ³#C“£ƒƒs£S3£#££%Ó£ccö6×3ö6ƒ“““#3ö–æFW‚æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™X~kþK¨ÎZY~zKîKÉ®k	yIð¦‡GG¢ò÷¦§Gb×w6†Ç2æ†öÖV6Fâæ6öÒöÆ—fRó&bæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™X~kþik™{¾{»ÎY€¦‡GG¢òö6Ò×w6†Ç2æ†öÖV6Fâæ6öÒöÆ—fRó&SæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™X~kþik™{¾{»ÎY€¦‡GG¢ò÷¦§Gb×w6†Ç2æ†öÖV6Fâæ6öÒöÆ—fRó&SæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™[þYê>{»ÎY€¦‡GG¢òöÆ—fRæG††×Bæ6ã£“ƒ÷Gbós#‚ÓæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™[þZè{»ÎY€¦‡GG¢òö6çVÆÂç666æf"æ6öÓ£ƒöÆ—fRó#3CSbæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™[þy›Þ[yK^ŠxnXû ¦‡GG¢ò÷7G&VÓ‚æ¦ÆçGbæ6âö6'7Gb÷6BöÆ—fRæÓ7Sƒ÷¦¦–Æ@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™zŽk©{»ÎY€¦‡GG¢òöÆ—fV6FâæF×‡–FÖ–âæ6öÒö†Ç2÷†¦ÖVç—VâæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™{¾YiÎ{»ÎYŽš)˜0¦‡GG3¢ò÷wwrçw††6v&G2æ6öÓ£ƒƒö6†ææVÅGbõu…EeóæfÇ`¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™{¾YiÎ{»ÎY€¦‡GG3¢ò÷wwrçw††6v&G2æ6öÓ£ƒƒö6†ææVÅGbõu…EeóæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™{¾YiÎ{»ÎY€¦‡GG3¢ò÷wwrçw††6v&G2æ6öÓ£ƒƒö6†ææVÅGbõu…EeóæÓ7Sƒ÷§6†ç†@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™‹>i».{»ÎY€¦‡GG3¢òóƒ6vw—RæÆ—fRç7†×G’æ6öÒöÆ—fRö†Ç2ófcfcF#3fc–&CC#c#†#s†#S“V&SvVBós#F#vSƒ“vƒCFCƒs6V#&&cc–&f‚æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™‹>i».{»ÎY€¦‡GG3¢òóƒ6vw—RæÆ—fRç7†×G’æ6öÒöÆ—fRö†Ç2ófcfcF#3fc–&CC#c#†#s†#S“V&SvVBós#F#vSƒ“vƒCFCƒs6V#&&cc–&f‚æÓ7Sƒ÷§6†ç†@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™˜~[yÞ{»ÎY€¦‡GG¢òöÆ—fRç–çW&Âæ6öÒ÷f–FVò÷3#rÔÄ4E5Bö–æFW‚æÓ7Sƒ÷§—Væ@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™˜~Š[þ{»ÎY€¦‡GG¢ò÷Æ’æ¶æ¶æÆ—fRæ6öÒöÆ—fRócC3#Cc#“CæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™˜~Š[þ{»ÎYŽš)˜0¦‡GG3¢ò÷Æ’æ¶æ¶æÆ—fRæ6öÒöÆ—fRóc3C##s33“s““‚æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™™^Š[þŠ[þZèžK‰Þ‹zð¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓc#BgFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™™^Š[þŠ[þZèž[ÛŠx`¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓc#2gFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™™^Š[þŠ[þZèžik™{°¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓc#gFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™™^Š[þŠ[þZèž˜;Þ[ˆ ¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓc#"gFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™›^kN{»ÎYŽš)˜0¦‡GG¢ò÷–Æ’×V&Æ—6‚æÇ7&Òæ†–æWw2æ6âö†æÇ7&ÒöÇ6v#"æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.[)¾Yøî™‹0¦‡GG¢ò÷–Æ’ÖÆ—fR×'F×ãSbæ“#ƒc2æ6öÒö“#ƒc2ÓSböÆ—fUóSeó3s3ræÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.[)¾Yøî™‹0¦‡GG¢ò÷–Æ’ÖÆ—fR×'F×ãSbæ“#ƒc2æ6öÒö“#ƒc2ÓSböÆ—fUóSeó3s3ræÓ7Sƒ÷6†æF@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.[yîih~XÉnix^k‹€¦‡GG¢ò÷6G¢æ6†–æ6†GBæ6öÓ£#3böÆ—fR÷7G&VÓ£2ç7G&VÒ÷Æ–Æ—7BæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.[yîih~XÉnix^k‹€¦‡GG¢ò÷6G¢æ6†–æ6†GBæ6öÓ£#3böÆ—fR÷7G&VÓ£2ç7G&VÒ÷Æ–Æ—7BæÓ7Sƒ÷6†æF@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.[yî{»ÎY€¦‡GG¢ò÷6G¢æ6†–æ6†GBæ6öÓ£#3böÆ—fR÷7G&VÓ£ç7G&VÒ÷Æ–Æ—7BæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.[yî{»ÎY€¦‡GG¢ò÷6G¢æ6†–æ6†GBæ6öÓ£#3böÆ—fR÷7G&VÓ£ç7G&VÒ÷Æ–Æ—7BæÓ7Sƒ÷6†æF@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.k[~Š[þZèik™{°¦‡GG3¢òöÆ—fV÷WBç†çGbçGböcV§W"ó“f–Æã"æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.k[rŠ[þZèik™{¾{»ÎY€¦‡GG3¢òöÆ—fV÷WBç†çGbçGböcV§W"ó“f–Æã"æÓ7Sƒ÷§–æv†@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.k[~Š[þZèyIþkK°¦‡GG3¢òöÆ—fV÷WBç†çGbçGböcV§W"ó“&“æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.k[rŠ[þZèyIþkK¾iÈÞXª¦‡GG3¢òöÆ—fV÷WBç†çGbçGböcV§W"ó“&“æÓ7Sƒ÷§–æv†@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.k[r™zŽk©{»ÎY€¦‡GG¢òöÆ—fV6FâæF×‡–FÖ–âæ6öÒö†Ç2÷†¦ÖVç—VâæÓ7Sƒ÷§–æv†@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.k[~™Ù.k[~{»ÎY€¦‡GG¢òöÆ×Bç677Gbæ6öÒöÆ—fSöÆ—fSæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.yKyK^Šx`¦‡GG¢òöÂæ7§Gf6Æ÷VBæ6öÒö6†ææVÇ2öÆçF–âõ5‡–æwF–ãós#æÓ7Sƒ÷§¦†V@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.zYî{»ÎY€¦‡GG¢òöÆ×Bç677Gbæ6öÒöÆ—fSöÆ—fSæÓ7Sƒ÷§6–6@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.zYî{»ÎY€¦‡GG¢òöÆ×Bç677Gbæ6öÓ£ƒöÆ—fSöÆ—fSæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™Ù.™9Î[:XZÎX[¦‡GG¢ò÷–Æ’ÖÆ—fRÖ†FÂæç†G§6‚æ6öÒ÷G†G7B÷G‚æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î™ÙnZè~{»ÎY€¦‡GG¢ò÷7G&VÓ‚æ¦ÆçGbæ6âö§—Gb÷6BöÆ—fRæÓ7Sƒ÷¦¦–Æ@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"GfrÖ–CÒ$3R"GfrÖÆövóÒ&‡GG3¢òöÖ—'&÷"æv‡&÷‡’æ6öÒö‡GG3¢ò÷&ræv—F‡V'W6W&6öçFVçBæ6öÒ÷vævÆ–æFÂõEfÆövòöÖ–âö–Örô45Efg–¦2çær"GfrÖæÖSÒ.š8îK©Xš~YË¢"Îš8îK©Xš~YË ¦‡GG¢òõ³#C“£ƒƒs£s£#£#££5Ó£ƒöF&—Gbç6âæ6†–æÖö&–ÆRæ6öÒõÅEbóƒƒƒƒƒƒ“2ó##Bó3####c“Sö–æFW‚æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"GfrÖ–CÒ$3’"GfrÖÆövóÒ&‡GG3¢òöÖ—'&÷"æv‡&÷‡’æ6öÒö‡GG3¢ò÷&ræv—F‡V'W6W&6öçFVçBæ6öÒ÷vævÆ–æFÂõEfÆövòöÖ–âö–Örô45Efg—§çær"GfrÖæÖSÒ.š8îK©‹k>y2"Îš8îK©‹k>y0¦‡GG¢òõ³#C“£ƒƒs£s£#£#££5Ó£ƒöF&—Gbç6âæ6†–æÖö&–ÆRæ6öÒõÅEbóƒƒƒƒƒƒ“2ó##Bó3####c“ƒBö–æFW‚æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"GfrÖ–CÒ$3b"GfrÖÆövóÒ&‡GG3¢òöÖ—'&÷"æv‡&÷‡’æ6öÒö‡GG3¢ò÷&ræv—F‡V'W6W&6öçFVçBæ6öÒ÷vævÆ–æFÂõEfÆövòöÖ–âö–Örô45Efg——’çær"GfrÖæÖSÒ.š8îK©™û>K™"Îš8îK©™û>K™ ¦‡GG¢òõ³#C“£ƒƒs£s£#£#££5Ó£ƒöF&—Gbç6âæ6†–æÖö&–ÆRæ6öÒõÅEbóƒƒƒƒƒƒ“2ó##Bó3####c“S2ö–æFW‚æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"GfrÖ–CÒ$3#R"GfrÖÆövóÒ&‡GG3¢òöÖ—'&÷"æv‡&÷‡’æ6öÒö‡GG3¢ò÷&ræv—F‡V'W6W&6öçFVçBæ6öÒ÷vævÆ–æFÂõEfÆövòöÖ–âö–Örô45EfvVgwçær"GfrÖæÖSÒ.š¹Ž[	NZJ¾{Ùy2"Îš¹Ž[	NZJ¾{Ùy0¦‡GG¢òõ³#C“£ƒƒs£s£#£#££5Ó£ƒöF&—Gbç6âæ6†–æÖö&–ÆRæ6öÒõÅEbóƒƒƒƒƒƒ“2ó##Bó3####c“s‚ö–æFW‚æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Îš¹Ž˜*î{»ÎYŽš)˜0¦‡GG¢òöv÷–÷R×GbÖ†Ç2æ6Òæ§7Gbæ6öÒöv÷–÷R×Gböv÷–÷W‡ræÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î››kÚÞyK^ŠxnXû ¦‡GG¢ò÷Æ’ÖÆ—fRÖ†Ç2æ§‡Gf6âæ6öÒæ6âöÆ—fRÖ6—G’÷Ge÷––æwFâæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›«¾j	~YÚyK^ŠxnXû ¦‡GG¢òöÓ7S‚æ6†ææVÂçw7'Gbæ6öÒæ6âö6×2÷f–FV÷2öæÖ—ÖÖVF–ö6†ææVÆÆ—fRö6†ææVÃ‚÷Æ–Æ—7BæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›«¾j	~YÚyK^ŠxnXû ¦‡GG¢ò÷GfG'2çw7'Gbæ6öÒæ6ã£ƒö6†ææVÆÆ—fRöÖÇGbæfÇ`¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¸N[XZÎX[yIþkK°¦‡GG¢òö‡6Æ—fRæ‡6æWw6æWBæ6öÒöÇ6G&VÒö•““&G’óöÆ—fRæÓ7Sƒ÷¦æ†@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¸N[ik™{¾{»ÎY€¦‡GG¢òö‡6Æ—fRæ‡6æWw6æWBæ6öÒöÇ6G&VÒö‡fS•v§2óöÆ—fRæÓ7Sƒ÷¦æ†@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"GfrÖ–CÒ$3’"GfrÖÆövóÒ&‡GG3¢òöÖ—'&÷"æv‡&÷‡’æ6öÒö‡GG3¢ò÷&ræv—F‡V'W6W&6öçFVçBæ6öÒ÷vævÆ–æFÂõEfÆövòöÖ–âö–Örö†ÖF‚çær"GfrÖæÖSÒ.›¹ˆé>XªŽyK²"Î›¹ˆé>XªŽyK°¦‡GG¢òõ³#C“£ƒƒs£¦Fc££sUÒö÷GG''2æ†Âæ6†–æÖö&–ÆRæ6öÒõÅEbóƒƒƒƒƒƒƒ‚ó##Bó3####Scc"ö–æFW‚æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"GfrÖ–CÒ$3‚"GfrÖÆövóÒ&‡GG3¢òöÖ—'&÷"æv‡&÷‡’æ6öÒö‡GG3¢ò÷&ræv—F‡V'W6W&6öçFVçBæ6öÒ÷vævÆ–æFÂõEfÆövòöÖ–âö–Örö†ÖG’çær"GfrÖæÖSÒ.›¹ˆé>yK^[Û"Î›¹ˆé>yK^[Û¦‡GG¢òõ³#C“£ƒƒs£#£#£#ƒ£¦FcfS¦V#EÒö÷GBæÖö&–&÷‚æ6öÒõÅEbó2ó##Bó3####SScrö–æFW‚æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþXZÎX[XiÎK‰ ¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓsc"gFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþXZÎX[XiÎK‰ ¦‡GG3¢òö–F6Æ—fRæ†Æ§Gbæ6öÓ£CC3öÆ—fRö†Æ¦vuö†BæÓ7Sƒ÷¦†V–Æ@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþY8Ž[	NkºŽZ‹K™ ¦‡GG¢ò÷7G&VÒæ‡&'GbææWB÷–ÇB÷6BöÆ—fRæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþY8Ž[	NkºŽ[ÛŠx`¦‡GG¢ò÷7G&VÒæ‡&'GbææWB÷—7B÷6BöÆ—fRæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþY8Ž[	NkºŽik™{°¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓscrgFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþY8Ž[	NkºŽik™{°¦‡GG¢ò÷7G&VÒæ‡&'GbææWB÷‡w¦‚÷6BöÆ—fRæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþY8Ž[	NkºŽyIþkK°¦‡GG¢ò÷7G&VÒæ‡&'GbææWB÷6‡B÷6BöÆ—fRæÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþ[	XKþš)˜0¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓscbgFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþ[Û¦‡GG3¢òö–F6Æ—fRæ†Æ§Gbæ6öÓ£CC3öÆ—fRö†Æ§—5ö†BæÓ7Sƒ÷¦†V–Æ@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþih~KÙ>š)˜0¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓscBgFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþih~KÙ0¦‡GG3¢òö–F6Æ—fRæ†Æ§Gbæ6öÓ£CC3öÆ—fRö†Æ§w•ö†BæÓ7Sƒ÷¦†V–Æ@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþik™{¾k9^k+°¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓscgFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþik™{¾k9^k+°¦‡GG3¢òö–F6Æ—fRæ†Æ§Gbæ6öÓ£CC3öÆ—fRö†Æ§‡uö†BæÓ7Sƒ÷¦†V–Æ@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþ˜;Þ[ˆ.š)˜0¦‡GG¢òö“"ãS'F"ç‡—¢ö–æfóö–CÓsc2gFö¶VãÓ##3#†‡F¦w¦¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›¹›éžkþ˜;Þ[ˆ ¦‡GG3¢òö–F6Æ—fRæ†Æ§Gbæ6öÓ£CC3öÆ—fRöGW6†•ö†BæÓ7Sƒ÷¦†V–Æ@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›éžK©^{»ÎY€¦‡GG¢ò÷7G&VÓ‚æ¦ÆçGbæ6âöÆ§Gb÷6BöÆ—fRæÓ7Sƒ÷¦¦–Æ@¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›éžk8žik™{°¦‡GG¢òöÂæ7§Gf6Æ÷VBæ6öÒö6†ææVÇ2öÆçF–âõ5†ÆöæwVãós#æÓ7Sƒ÷§¦†VCð¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›éžk8žik™{¾{»ÎY€¦‡GG¢òöÂæ7§Gf6Æ÷VBæ6öÒö6†ææVÇ2öÆçF–âõ5†ÆöæwVãós#æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›éžk8žš›þik™{¾{»ÎY€¦‡GG3¢òöÆ—fR×VÆÂææWw6Ç’æ6öÒöÆ—fRöf×¦#cƒ#CC“ƒƒƒ#’æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›éžk‹Žik™{¾{»ÎY€¦‡GG¢òöÂæ7§Gf6Æ÷VBæ6öÒö6†ææVÇ2öÆçF–âõ5†Æöæw–÷Sós#æÓ7S€¢4U…D”äc¢Ów&÷W×F—FÆSÒ.YËikžXû"Î›éžk‹ŽyIþkK¾Z‹K™ ¦‡GG¢òöÂæ7§Gf6Æ÷VBæ6öÒö6†ææVÇ2öÆçF–âõ5†Æöæw–÷S"ós#æÓ7S€
