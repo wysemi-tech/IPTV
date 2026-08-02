@@ -1,863 +1,821 @@
 #EXTM3U
-#EXTINF:-1 group-title="地方台" tvg-id="BreadTV.cn@SD" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" x-latency-ms="858" x-speed-kbps="2003",Bread TV面包台 (720p)
+#EXTINF:-1 group-title="地方台" tvg-id="BreadTV.cn@SD" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" x-latency-ms="755" x-speed-kbps="2365",Bread TV面包台 (720p)
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="BeijingSatelliteTV.cn@HD" tvg-logo="https://i.imgur.com/vsktAez.png" x-latency-ms="3776" x-speed-kbps="2659",BRTV 北京卫视 (1080p)
-http://go.bkpcp.top/mg/bjws
-#EXTINF:-1 group-title="央视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4K.png" tvg-name="CCTV4K" x-latency-ms="142" x-speed-kbps="14675",CCTV4K
+#EXTINF:-1 group-title="央视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4K.png" tvg-name="CCTV4K" x-latency-ms="100" x-speed-kbps="24227",CCTV4K
 http://107.150.60.122/live/cctv4k.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4K.png" tvg-name="CCTV4K" x-latency-ms="200" x-resolution="640x360" x-speed-kbps="2607",CCTV4K
+#EXTINF:-1 group-title="央视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4K.png" tvg-name="CCTV4K" x-latency-ms="218" x-resolution="640x360" x-speed-kbps="2765",CCTV4K
 https://t.freetv.fun/live/cctv-4kgao-qing-2.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" tvg-name="CCTV-1" x-latency-ms="188" x-speed-kbps="14662",CCTV-1
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" tvg-name="CCTV-1" x-latency-ms="128" x-speed-kbps="20850",CCTV-1
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" tvg-name="CCTV-1" x-latency-ms="216" x-speed-kbps="14458",CCTV-1
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" tvg-name="CCTV-1" x-latency-ms="158" x-speed-kbps="20317",CCTV-1
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" tvg-name="CCTV-1" x-latency-ms="312" x-speed-kbps="5973",CCTV-1
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" tvg-name="CCTV-1" x-latency-ms="256" x-speed-kbps="4610",CCTV-1
 http://198.204.228.26/live/cctv1hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" tvg-name="CCTV-10" x-latency-ms="234" x-speed-kbps="14610",CCTV-10
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" tvg-name="CCTV-10" x-latency-ms="100" x-speed-kbps="20691",CCTV-10
 http://192.151.150.154/live/cctv10hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" tvg-name="CCTV-10" x-latency-ms="191" x-speed-kbps="14437",CCTV-10
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" tvg-name="CCTV-10" x-latency-ms="138" x-speed-kbps="20670",CCTV-10
 http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" tvg-name="CCTV-10" x-latency-ms="215" x-speed-kbps="14288",CCTV-10
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" tvg-name="CCTV-10" x-latency-ms="148" x-speed-kbps="17637",CCTV-10
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
-#EXTINF:-1 group-title="央视" tvg-id="CCTV8K.cn@HD" tvg-logo="https://i.imgur.com/fxVPMJF.png" x-latency-ms="243" x-speed-kbps="14689",CCTV-8K (1080p)
+#EXTINF:-1 group-title="央视" tvg-id="CCTV8K.cn@HD" tvg-logo="https://i.imgur.com/fxVPMJF.png" x-latency-ms="90" x-speed-kbps="21098",CCTV-8K (1080p)
 http://192.151.150.154/live/cctv8k.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" tvg-name="CCTV-11" x-latency-ms="197" x-speed-kbps="14606",CCTV-11
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" tvg-name="CCTV-11" x-latency-ms="126" x-speed-kbps="20957",CCTV-11
 http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" tvg-name="CCTV-11" x-latency-ms="144" x-speed-kbps="14476",CCTV-11
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" tvg-name="CCTV-11" x-latency-ms="107" x-speed-kbps="17732",CCTV-11
 http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" tvg-name="CCTV-11" x-latency-ms="215" x-speed-kbps="14450",CCTV-11
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" tvg-name="CCTV-11" x-latency-ms="160" x-speed-kbps="17550",CCTV-11
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" tvg-name="CCTV-12" x-latency-ms="189" x-speed-kbps="14672",CCTV-12
-http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" tvg-name="CCTV-12" x-latency-ms="225" x-speed-kbps="14573",CCTV-12
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" tvg-name="CCTV-12" x-latency-ms="130" x-speed-kbps="24660",CCTV-12
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" tvg-name="CCTV-12" x-latency-ms="151" x-speed-kbps="19839",CCTV-12
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-12" tvg-logo="https://tb.zbds.top/logo/CCTV12.png" tvg-name="CCTV12" x-latency-ms="572" x-speed-kbps="1289",CCTV12
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-12" tvg-logo="https://tb.zbds.top/logo/CCTV12.png" tvg-name="CCTV12" x-latency-ms="547" x-speed-kbps="1651",CCTV12
 http://222.223.41.27:8888/hls/12/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" tvg-name="CCTV-13" x-latency-ms="141" x-speed-kbps="14545",CCTV-13
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" tvg-name="CCTV-13" x-latency-ms="95" x-speed-kbps="23000",CCTV-13
 http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" tvg-name="CCTV-13" x-latency-ms="220" x-speed-kbps="14472",CCTV-13
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" tvg-name="CCTV-13" x-latency-ms="152" x-speed-kbps="22937",CCTV-13
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
-#EXTINF:-1 group-title="央视" tvg-id="CCTV13" tvg-logo="https://tb.zbds.top/logo/CCTV13.png" tvg-name="CCTV13" x-latency-ms="1341" x-speed-kbps="2307",CCTV13
+#EXTINF:-1 group-title="央视" tvg-id="CCTV13" tvg-logo="https://tb.zbds.top/logo/CCTV13.png" tvg-name="CCTV13" x-latency-ms="1197" x-speed-kbps="2755",CCTV13
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" tvg-name="CCTV-14" x-latency-ms="220" x-speed-kbps="14675",CCTV-14
+#EXTINF:-1 group-title="央视" tvg-id="CCTV13.cn@HD" tvg-logo="https://i.imgur.com/6MTar6J.png" x-latency-ms="3059" x-speed-kbps="1472",CCTV-13 (1080p)
+http://go.bkpcp.top/mg/cctv13
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" tvg-name="CCTV-14" x-latency-ms="147" x-speed-kbps="21839",CCTV-14
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" tvg-name="CCTV-14" x-latency-ms="190" x-speed-kbps="14658",CCTV-14
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" tvg-name="CCTV-14" x-latency-ms="140" x-speed-kbps="20963",CCTV-14
 http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-id="CCTV14.cn@HD" tvg-logo="https://i.imgur.com/c5SXW7i.png" x-latency-ms="143" x-speed-kbps="14593",CCTV-14 (1080p)
+#EXTINF:-1 group-title="央视" tvg-id="CCTV14.cn@HD" tvg-logo="https://i.imgur.com/c5SXW7i.png" x-latency-ms="99" x-speed-kbps="22127",CCTV-14 (1080p)
 http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" tvg-name="CCTV-15" x-latency-ms="216" x-speed-kbps="14608",CCTV-15
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" tvg-name="CCTV-15" x-latency-ms="154" x-speed-kbps="23701",CCTV-15
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" tvg-name="CCTV-15" x-latency-ms="188" x-speed-kbps="14552",CCTV-15
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" tvg-name="CCTV-15" x-latency-ms="140" x-speed-kbps="22551",CCTV-15
 http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" tvg-name="CCTV-15" x-latency-ms="325" x-speed-kbps="6020",CCTV-15
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" tvg-name="CCTV-15" x-latency-ms="270" x-speed-kbps="4687",CCTV-15
 http://198.204.228.26/live/cctv15hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV15.cn@SD" tvg-logo="https://i.imgur.com/CCV0eRG.png" x-latency-ms="38" x-resolution="1920x1080" x-speed-kbps="2661",CCTV-15 (1080p)
+#EXTINF:-1 group-title="央视" tvg-id="CCTV15.cn@SD" tvg-logo="https://i.imgur.com/CCV0eRG.png" x-latency-ms="112" x-resolution="1920x1080" x-speed-kbps="3105",CCTV-15 (1080p)
 https://xykt-fix.github.io/play/a02e/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" tvg-name="CCTV-16" x-latency-ms="1208" x-speed-kbps="14130",CCTV-16
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" tvg-name="CCTV-16" x-latency-ms="1042" x-speed-kbps="15441",CCTV-16
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-id="CCTVPlus1.cn@SD" tvg-logo="https://i.imgur.com/U8d4Is6.png" x-latency-ms="830" x-resolution="1280x600" x-speed-kbps="4577",CCTV+ 1 (600p) [Not 24/7]
+#EXTINF:-1 group-title="央视" tvg-id="CCTVPlus1.cn@SD" tvg-logo="https://i.imgur.com/U8d4Is6.png" x-latency-ms="511" x-resolution="1280x600" x-speed-kbps="1651",CCTV+ 1 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" tvg-name="CCTV-17" x-latency-ms="217" x-speed-kbps="14586",CCTV-17
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" tvg-name="CCTV-17" x-latency-ms="147" x-speed-kbps="21218",CCTV-17
+http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" tvg-name="CCTV-17" x-latency-ms="141" x-speed-kbps="20970",CCTV-17
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" tvg-name="CCTV-2" x-latency-ms="141" x-speed-kbps="14676",CCTV-2
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" tvg-name="CCTV-2" x-latency-ms="100" x-speed-kbps="21795",CCTV-2
 http://69.30.245.50/live/cctv2.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" tvg-name="CCTV-2" x-latency-ms="1246" x-speed-kbps="14646",CCTV-2
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" tvg-name="CCTV-2" x-latency-ms="174" x-speed-kbps="17255",CCTV-2
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" tvg-name="CCTV-2" x-latency-ms="182" x-speed-kbps="4368",CCTV-2
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" tvg-name="CCTV-2" x-latency-ms="274" x-speed-kbps="3777",CCTV-2
 http://198.204.228.26/live/cctv2hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTVPlus2.cn@SD" tvg-logo="https://i.imgur.com/qSg862A.png" x-latency-ms="774" x-resolution="1280x600" x-speed-kbps="3736",CCTV+ 2 (600p) [Not 24/7]
+#EXTINF:-1 group-title="央视" tvg-id="CCTVPlus2.cn@SD" tvg-logo="https://i.imgur.com/qSg862A.png" x-latency-ms="250" x-resolution="1280x600" x-speed-kbps="1784",CCTV+ 2 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV2.cn@SD" tvg-logo="https://i.imgur.com/ILamhwU.png" x-latency-ms="144" x-speed-kbps="14223",CCTV-2 (720p)
+#EXTINF:-1 group-title="央视" tvg-id="CCTV2.cn@SD" tvg-logo="https://i.imgur.com/ILamhwU.png" x-latency-ms="126" x-speed-kbps="16617",CCTV-2 (720p)
 http://74.91.26.218:82/live/cctv2hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" tvg-name="CCTV-3" x-latency-ms="143" x-speed-kbps="13695",CCTV-3
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" tvg-name="CCTV-3" x-latency-ms="120" x-speed-kbps="17822",CCTV-3
 http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" tvg-name="CCTV-3" x-latency-ms="216" x-speed-kbps="13399",CCTV-3
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" tvg-name="CCTV-3" x-latency-ms="159" x-speed-kbps="16473",CCTV-3
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" tvg-name="CCTV-3" x-latency-ms="303" x-speed-kbps="4559",CCTV-3
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" tvg-name="CCTV-3" x-latency-ms="373" x-speed-kbps="4053",CCTV-3
 http://198.204.228.26/live/cctv3hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" tvg-name="CCTV-4" x-latency-ms="143" x-speed-kbps="13861",CCTV-4
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" tvg-name="CCTV-4" x-latency-ms="220" x-speed-kbps="13857",CCTV-4
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" tvg-name="CCTV-4" x-latency-ms="144" x-speed-kbps="13747",CCTV-4
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" tvg-name="CCTV-4" x-latency-ms="95" x-speed-kbps="21251",CCTV-4
 http://107.150.60.122/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" tvg-name="CCTV-5" x-latency-ms="146" x-speed-kbps="14409",CCTV-5
-http://198.204.228.26/live/cctv5p.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" tvg-name="CCTV-6" x-latency-ms="211" x-speed-kbps="14534",CCTV-6
-http://198.204.240.250:82/live/cctv6.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" tvg-name="CCTV-6" x-latency-ms="1129" x-speed-kbps="12522",CCTV-6
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" tvg-name="CCTV-4" x-latency-ms="112" x-speed-kbps="15542",CCTV-4
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-4" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" tvg-name="CCTV4" x-latency-ms="550" x-speed-kbps="3709",CCTV4
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" tvg-name="CCTV-5" x-latency-ms="99" x-speed-kbps="22399",CCTV-5
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" tvg-name="CCTV-6" x-latency-ms="93" x-speed-kbps="21184",CCTV-6
 http://74.91.26.218:82/live/cctv6hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" tvg-name="CCTV-6" x-latency-ms="223" x-speed-kbps="6576",CCTV-6
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" tvg-name="CCTV-6" x-latency-ms="146" x-speed-kbps="20815",CCTV-6
+http://198.204.240.250:82/live/cctv6.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" tvg-name="CCTV-6" x-latency-ms="273" x-speed-kbps="4522",CCTV-6
 http://198.204.228.26/live/cctv6hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" tvg-name="CCTV-7" x-latency-ms="222" x-speed-kbps="14005",CCTV-7
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" tvg-name="CCTV-7" x-latency-ms="189" x-speed-kbps="13987",CCTV-7
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" tvg-name="CCTV-7" x-latency-ms="142" x-speed-kbps="19913",CCTV-7
 http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" tvg-name="CCTV-7" x-latency-ms="143" x-speed-kbps="13814",CCTV-7
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" tvg-name="CCTV-7" x-latency-ms="90" x-speed-kbps="16789",CCTV-7
 http://74.91.26.218:82/live/cctv7hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" tvg-name="CCTV-8" x-latency-ms="214" x-speed-kbps="14650",CCTV-8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" tvg-name="CCTV-7" x-latency-ms="149" x-speed-kbps="14807",CCTV-7
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" tvg-name="CCTV-8" x-latency-ms="140" x-speed-kbps="23438",CCTV-8
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" tvg-name="CCTV-8" x-latency-ms="191" x-speed-kbps="14572",CCTV-8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" tvg-name="CCTV-8" x-latency-ms="133" x-speed-kbps="20779",CCTV-8
 http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" tvg-name="CCTV-9" x-latency-ms="143" x-speed-kbps="14620",CCTV-9
-http://192.151.150.154/live/cctv9hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" tvg-name="CCTV-9" x-latency-ms="222" x-speed-kbps="14588",CCTV-9
+#EXTINF:-1 group-title="央视" tvg-id="269" tvg-logo="https://tb.zbds.top/logo/CCTV8.png" tvg-name="CCTV8" x-latency-ms="828" x-speed-kbps="1071",CCTV8
+http://124.116.183.146:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" tvg-name="CCTV-9" x-latency-ms="152" x-speed-kbps="23009",CCTV-9
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" tvg-name="CCTV9" x-latency-ms="143" x-speed-kbps="14551",CCTV9
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" tvg-name="CCTV-9" x-latency-ms="106" x-speed-kbps="22713",CCTV-9
+http://198.204.228.26/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" tvg-name="CCTV-9" x-latency-ms="102" x-speed-kbps="22560",CCTV-9
 http://74.91.26.218:82/live/cctv9hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="CCTVGolfTennis.cn@HD" tvg-logo="https://i.imgur.com/iqJJTmH.png" x-latency-ms="189" x-speed-kbps="14481",CCTV-Golf & Tennis (1080p)
+#EXTINF:-1 group-title="央视" tvg-id="CCTVGolfTennis.cn@HD" tvg-logo="https://i.imgur.com/iqJJTmH.png" x-latency-ms="1017" x-speed-kbps="18637",CCTV-Golf & Tennis (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-id="CCTVHealth.cn@HD" tvg-logo="https://i.imgur.com/AzpRtCz.png" x-latency-ms="189" x-speed-kbps="14567",CCTV-Health (1080p)
+#EXTINF:-1 group-title="央视" tvg-id="CCTVHealth.cn@HD" tvg-logo="https://i.imgur.com/AzpRtCz.png" x-latency-ms="131" x-speed-kbps="21670",CCTV-Health (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-id="CCTVStormTheater.cn@HD" tvg-logo="https://i.imgur.com/rEttkKm.png" x-latency-ms="188" x-speed-kbps="14524",CCTV-Storm Theater (1080p)
+#EXTINF:-1 group-title="央视" tvg-id="CCTVStormTheater.cn@HD" tvg-logo="https://i.imgur.com/rEttkKm.png" x-latency-ms="133" x-speed-kbps="20171",CCTV-Storm Theater (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-id="CCTVTheFirstTheater.cn@HD" tvg-logo="https://i.imgur.com/eFxD3hq.png" x-latency-ms="188" x-speed-kbps="14570",CCTV-The First Theater (1080p)
+#EXTINF:-1 group-title="央视" tvg-id="CCTVTheFirstTheater.cn@HD" tvg-logo="https://i.imgur.com/eFxD3hq.png" x-latency-ms="138" x-speed-kbps="19596",CCTV-The First Theater (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/央视文化精品.png" tvg-name="央视文化精品" x-latency-ms="327" x-speed-kbps="5937",央视文化精品
+#EXTINF:-1 group-title="央视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/央视文化精品.png" tvg-name="央视文化精品" x-latency-ms="504" x-speed-kbps="6440",央视文化精品
 http://104.152.209.49:8181/720p/ysjp.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" tvg-name="央视台球" x-latency-ms="190" x-speed-kbps="14653",央视台球
-http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-id="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" tvg-name="央视台球" x-latency-ms="142" x-speed-kbps="14450",央视台球
-http://107.150.60.122/live/ystq.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" tvg-name="央视台球" x-latency-ms="217" x-speed-kbps="13490",央视台球
+#EXTINF:-1 group-title="央视" tvg-id="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" tvg-name="央视台球" x-latency-ms="156" x-speed-kbps="23126",央视台球
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
-#EXTINF:-1 group-title="地方台" tvg-id="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" tvg-name="CETV-1" x-latency-ms="217" x-speed-kbps="14548",CETV-1
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
-#EXTINF:-1 group-title="地方台" tvg-id="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" tvg-name="CETV-1" x-latency-ms="143" x-speed-kbps="14535",CETV-1
+#EXTINF:-1 group-title="央视" tvg-id="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" tvg-name="央视台球" x-latency-ms="999" x-speed-kbps="22289",央视台球
+http://107.150.60.122/live/ystq.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" tvg-name="央视台球" x-latency-ms="129" x-speed-kbps="21369",央视台球
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 group-title="地方台" tvg-id="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" tvg-name="CETV-1" x-latency-ms="96" x-speed-kbps="22019",CETV-1
 http://198.204.228.26/live/cetv1hd.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" tvg-name="CETV2" x-latency-ms="144" x-speed-kbps="14357",CETV2
+#EXTINF:-1 group-title="地方台" tvg-id="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" tvg-name="CETV-1" x-latency-ms="161" x-speed-kbps="20941",CETV-1
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" tvg-name="CETV2" x-latency-ms="96" x-speed-kbps="23081",CETV2
 http://198.204.228.26/live/cetv2.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV3.png" tvg-name="CETV3" x-latency-ms="869" x-speed-kbps="14652",CETV3
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV3.png" tvg-name="CETV3" x-latency-ms="1430" x-speed-kbps="23502",CETV3
 http://rihou.cc:555/tv/CETV3
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV3.png" tvg-name="CETV3" x-latency-ms="142" x-speed-kbps="14349",CETV3
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV3.png" tvg-name="CETV3" x-latency-ms="94" x-speed-kbps="20395",CETV3
 http://198.204.228.26/live/cetv3.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" tvg-name="CETV4" x-latency-ms="143" x-speed-kbps="14598",CETV4
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" tvg-name="CETV4" x-latency-ms="99" x-speed-kbps="21964",CETV4
 http://198.204.228.26/live/cetv4.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="CGTN" tvg-logo="https://tb.zbds.top/logo/CGTN.png" tvg-name="CGTN" x-latency-ms="262" x-speed-kbps="24611",CGTN
+#EXTINF:-1 group-title="地方台" tvg-id="CGTN" tvg-logo="https://tb.zbds.top/logo/CGTN.png" tvg-name="CGTN" x-latency-ms="226" x-speed-kbps="13654",CGTN
 https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="CGTN俄语" tvg-logo="https://tb.zbds.top/logo/CGTN俄语.png" tvg-name="CGTN俄语" x-latency-ms="694" x-speed-kbps="5028",CGTN俄语
-http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="CGTN俄语" tvg-name="CGTN俄语" x-latency-ms="57" x-speed-kbps="5025",CGTN俄语
+#EXTINF:-1 group-title="地方台" tvg-id="CGTN俄语" tvg-logo="https://tb.zbds.top/logo/CGTN俄语.png" tvg-name="CGTN俄语" x-latency-ms="151" x-speed-kbps="6189",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="CGTN法语" tvg-name="CGTN法语" x-latency-ms="74" x-speed-kbps="31828",CGTN法语
+#EXTINF:-1 group-title="地方台" tvg-id="CGTN法语" tvg-logo="https://tb.zbds.top/logo/CGTN法语.png" tvg-name="CGTN法语" x-latency-ms="105" x-speed-kbps="16393",CGTN法语
 https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="CGTN法语" tvg-logo="https://tb.zbds.top/logo/CGTN法语.png" tvg-name="CGTN法语" x-latency-ms="221" x-speed-kbps="24557",CGTN法语
-http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="CGTN纪录" tvg-name="CGTN纪录" x-latency-ms="516" x-speed-kbps="19666",CGTN纪录
+#EXTINF:-1 group-title="地方台" tvg-id="CGTN纪录" tvg-name="CGTN纪录" x-latency-ms="607" x-speed-kbps="17243",CGTN纪录
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="CGTN纪录" tvg-logo="https://tb.zbds.top/logo/CGTN纪录.png" tvg-name="CGTN纪录" x-latency-ms="66" x-speed-kbps="5605",CGTN纪录
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="CGTN" tvg-name="CGTN" x-latency-ms="469" x-speed-kbps="35563",CGTN英语
+#EXTINF:-1 group-title="地方台" tvg-id="CGTN纪录" tvg-logo="https://tb.zbds.top/logo/CGTN纪录.png" tvg-name="CGTN纪录" x-latency-ms="1138" x-speed-kbps="13194",CGTN纪录
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="CGTN" tvg-name="CGTN" x-latency-ms="306" x-speed-kbps="17245",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="CGTN西语" tvg-logo="https://tb.zbds.top/logo/CGTN西语.png" tvg-name="CGTN西语" x-latency-ms="55" x-speed-kbps="5247",CGTN西语
+#EXTINF:-1 group-title="地方台" tvg-id="CGTN西语" tvg-logo="https://tb.zbds.top/logo/CGTN西语.png" tvg-name="CGTN西语" x-latency-ms="102" x-speed-kbps="4592",CGTN西语
 https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="CGTN阿语" tvg-logo="https://tb.zbds.top/logo/CGTN阿语.png" tvg-name="CGTN阿语" x-latency-ms="55" x-speed-kbps="24114",CGTN阿语
+#EXTINF:-1 group-title="地方台" tvg-id="CGTN阿语" tvg-logo="https://tb.zbds.top/logo/CGTN阿语.png" tvg-name="CGTN阿语" x-latency-ms="82" x-speed-kbps="4600",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="CHC动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" tvg-name="CHC动作电影" x-latency-ms="143" x-speed-kbps="14682",CHC动作电影
-http://198.204.228.26/live/chcdz.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="CHC动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" tvg-name="CHC动作电影" x-latency-ms="146" x-speed-kbps="14583",CHC动作电影
-http://107.150.60.122/live/chcdz.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="CHC动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" tvg-name="CHC动作电影" x-latency-ms="192" x-speed-kbps="14471",CHC动作电影
+#EXTINF:-1 group-title="地方台" tvg-id="CHC动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" tvg-name="CHC动作电影" x-latency-ms="133" x-speed-kbps="21879",CHC动作电影
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-id="CHC家庭影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC家庭影院.png" tvg-name="CHC家庭影院" x-latency-ms="141" x-speed-kbps="14569",CHC家庭影院
-http://192.151.150.154/live/chcjt.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="CHC家庭影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC家庭影院.png" tvg-name="CHC家庭影院" x-latency-ms="214" x-speed-kbps="14512",CHC家庭影院
+#EXTINF:-1 group-title="地方台" tvg-id="CHC动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" tvg-name="CHC动作电影" x-latency-ms="105" x-speed-kbps="20339",CHC动作电影
+http://198.204.228.26/live/chcdz.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="CHC动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" tvg-name="CHC动作电影" x-latency-ms="100" x-speed-kbps="19793",CHC动作电影
+http://107.150.60.122/live/chcdz.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="CHC家庭影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC家庭影院.png" tvg-name="CHC家庭影院" x-latency-ms="158" x-speed-kbps="21109",CHC家庭影院
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
-#EXTINF:-1 group-title="地方台" tvg-id="CHC家庭影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC家庭影院.png" tvg-name="CHC家庭影院" x-latency-ms="148" x-speed-kbps="14464",CHC家庭影院
+#EXTINF:-1 group-title="地方台" tvg-id="CHC家庭影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC家庭影院.png" tvg-name="CHC家庭影院" x-latency-ms="92" x-speed-kbps="20002",CHC家庭影院
+http://192.151.150.154/live/chcjt.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="CHC家庭影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC家庭影院.png" tvg-name="CHC家庭影院" x-latency-ms="95" x-speed-kbps="19161",CHC家庭影院
 http://107.150.60.122/live/chcjt.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CHC影迷电影.png" tvg-name="CHC影迷电影" x-latency-ms="189" x-speed-kbps="14722",CHC影迷电影
-http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CHC影迷电影.png" tvg-name="CHC影迷电影" x-latency-ms="131" x-resolution="640x360" x-speed-kbps="14602",CHC影迷电影
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CHC影迷电影.png" tvg-name="CHC影迷电影" x-latency-ms="179" x-resolution="640x360" x-speed-kbps="21410",CHC影迷电影
 https://t.freetv.fun/live/chcying-mi-dian-ying-5.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="ChifengComprehensiveNewsChanel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" x-latency-ms="1483" x-speed-kbps="2237",Chifeng Comprehensive News Chanel
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CHC影迷电影.png" tvg-name="CHC影迷电影" x-latency-ms="137" x-speed-kbps="20305",CHC影迷电影
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+#EXTINF:-1 group-title="地方台" tvg-id="ChifengComprehensiveNewsChanel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" x-latency-ms="1670" x-speed-kbps="1660",Chifeng Comprehensive News Chanel
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="GuangzhouTV.cn@SD" tvg-logo="https://i.imgur.com/ff3KQXp.png" x-latency-ms="1425" x-speed-kbps="1579",Guangzhou TV
+#EXTINF:-1 group-title="地方台" tvg-id="GuangzhouTV.cn@SD" tvg-logo="https://i.imgur.com/ff3KQXp.png" x-latency-ms="1381" x-speed-kbps="1656",Guangzhou TV
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="HarbinComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" x-latency-ms="1319" x-speed-kbps="1268",Harbin Comprehensive News Channel
-https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
-#EXTINF:-1 group-title="地方台" tvg-id="HarbinMovieChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" x-latency-ms="1285" x-speed-kbps="1321",Harbin Movie Channel
+#EXTINF:-1 group-title="地方台" tvg-id="HarbinMovieChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" x-latency-ms="1179" x-speed-kbps="1311",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="HunanTV.cn@SD" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" x-latency-ms="641" x-speed-kbps="3639",Hunan TV (2160p)
+#EXTINF:-1 group-title="地方台" tvg-id="HunanTV.cn@SD" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" x-latency-ms="626" x-speed-kbps="3141",Hunan TV (2160p)
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="LanzhouComprehensiveNewsChannel.cn@SD" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662" x-latency-ms="5472" x-speed-kbps="1456",Lanzhou Comprehensive News Channel
+#EXTINF:-1 group-title="地方台" tvg-id="LanzhouComprehensiveNewsChannel.cn@SD" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662" x-latency-ms="6016" x-speed-kbps="1633",Lanzhou Comprehensive News Channel
 https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="LanzhouCultureTourismChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/lanzhou.jpg" x-latency-ms="5552" x-speed-kbps="1434",Lanzhou Culture & Tourism Channel
+#EXTINF:-1 group-title="地方台" tvg-id="LanzhouCultureTourismChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/lanzhou.jpg" x-latency-ms="5962" x-speed-kbps="1648",Lanzhou Culture & Tourism Channel
 https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="NeiMonggolTV.cn@SD" tvg-logo="https://i.imgur.com/WeugJBE.png" x-latency-ms="1074" x-speed-kbps="2132",Nei Monggol TV (1080i) [Not 24/7]
+#EXTINF:-1 group-title="地方台" tvg-id="NeiMonggolTV.cn@SD" tvg-logo="https://i.imgur.com/WeugJBE.png" x-latency-ms="618" x-speed-kbps="2179",Nei Monggol TV (1080i) [Not 24/7]
 http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="NeiMonggolTV2MongolianCultureChannel.cn@SD" tvg-logo="https://i.imgur.com/kpsjahG.png" x-latency-ms="1001" x-speed-kbps="1931",Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7]
+#EXTINF:-1 group-title="地方台" tvg-id="NeiMonggolTV2MongolianCultureChannel.cn@SD" tvg-logo="https://i.imgur.com/kpsjahG.png" x-latency-ms="548" x-speed-kbps="1424",Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7]
 http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="QTV1.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv1.jpg" x-latency-ms="2055" x-speed-kbps="1402",QTV-1
+#EXTINF:-1 group-title="地方台" tvg-id="QTV1.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv1.jpg" x-latency-ms="1102" x-speed-kbps="2491",QTV-1
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="QTV2.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" x-latency-ms="1616" x-speed-kbps="2028",QTV-2
+#EXTINF:-1 group-title="地方台" tvg-id="QTV2.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" x-latency-ms="1753" x-speed-kbps="1664",QTV-2
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="QTV3.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" x-latency-ms="596" x-speed-kbps="2020",QTV-3
+#EXTINF:-1 group-title="地方台" tvg-id="QTV3.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" x-latency-ms="1120" x-speed-kbps="1950",QTV-3
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="QTV4.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv4.jpg" x-latency-ms="593" x-speed-kbps="2359",QTV-4
+#EXTINF:-1 group-title="地方台" tvg-id="QTV4.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv4.jpg" x-latency-ms="1042" x-speed-kbps="2485",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="QTV5.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg" x-latency-ms="590" x-speed-kbps="2206",QTV-5
+#EXTINF:-1 group-title="地方台" tvg-id="QTV5.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg" x-latency-ms="542" x-speed-kbps="2686",QTV-5
 http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="QTV6.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" x-latency-ms="584" x-speed-kbps="2578",QTV-6
+#EXTINF:-1 group-title="地方台" tvg-id="QTV6.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" x-latency-ms="614" x-speed-kbps="2726",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="SipingTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" x-latency-ms="5637" x-speed-kbps="1502",Siping TV
+#EXTINF:-1 group-title="地方台" tvg-id="SipingTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" x-latency-ms="923" x-speed-kbps="1773",Siping TV
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
-#EXTINF:-1 group-title="地方台" tvg-id="XinjiangTV8.cn@SD" tvg-logo="https://i.imgur.com/JJw1Ndc.png" x-latency-ms="1449" x-speed-kbps="1036",Xinjiang TV 8
+#EXTINF:-1 group-title="地方台" tvg-id="XinjiangTV8.cn@SD" tvg-logo="https://i.imgur.com/JJw1Ndc.png" x-latency-ms="652" x-speed-kbps="1301",Xinjiang TV 8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
-#EXTINF:-1 group-title="地方台" tvg-id="XizangTVTibetan.cn@SD" tvg-logo="https://i.imgur.com/NtvfnVV.png" x-latency-ms="4274" x-speed-kbps="1589",Xizang TV Tibetan (720p) [Not 24/7]
+#EXTINF:-1 group-title="地方台" tvg-id="XizangTVTibetan.cn@SD" tvg-logo="https://i.imgur.com/NtvfnVV.png" x-latency-ms="6183" x-speed-kbps="2612",Xizang TV Tibetan (720p) [Not 24/7]
 http://php.jdshipin.com:8880/xztv.php?id=zy
-#EXTINF:-1 group-title="地方台" tvg-id="ZhejiangInternationalChannel.cn@SD" tvg-logo="https://i.imgur.com/XOL1Hph.png" x-latency-ms="855" x-speed-kbps="2373",Zhejiang TV International
+#EXTINF:-1 group-title="地方台" tvg-id="ZhejiangInternationalChannel.cn@SD" tvg-logo="https://i.imgur.com/XOL1Hph.png" x-latency-ms="1052" x-speed-kbps="2525",Zhejiang TV International
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="七台河新闻综合" tvg-logo="https://tb.zbds.top/logo/七台河新闻综合.png" tvg-name="七台河新闻综合" x-latency-ms="2598" x-speed-kbps="1454",七台河新闻综合
+#EXTINF:-1 group-title="地方台" tvg-id="七台河新闻综合" tvg-logo="https://tb.zbds.top/logo/七台河新闻综合.png" tvg-name="七台河新闻综合" x-latency-ms="2327" x-speed-kbps="1966",七台河新闻综合
 http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="七台河民生社教" tvg-logo="https://tb.zbds.top/logo/七台河民生社教.png" tvg-name="七台河民生社教" x-latency-ms="2549" x-speed-kbps="1451",七台河民生社教
+#EXTINF:-1 group-title="地方台" tvg-id="七台河民生社教" tvg-logo="https://tb.zbds.top/logo/七台河民生社教.png" tvg-name="七台河民生社教" x-latency-ms="2027" x-speed-kbps="1776",七台河民生社教
 http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="万荣综合" tvg-logo="https://tb.zbds.top/logo/万荣综合.png" tvg-name="万荣综合" x-latency-ms="787" x-speed-kbps="1555",万荣综合
+#EXTINF:-1 group-title="地方台" tvg-id="万荣综合" tvg-logo="https://tb.zbds.top/logo/万荣综合.png" tvg-name="万荣综合" x-latency-ms="728" x-speed-kbps="1959",万荣综合
 http://60.222.246.220:19433/hls1.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三国演义.png" tvg-name="三国演义" x-latency-ms="142" x-speed-kbps="14552",三国演义
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三国演义.png" tvg-name="三国演义" x-latency-ms="91" x-speed-kbps="22250",三国演义
 http://173.208.234.146/live/vlsgyy.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="三沙卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三沙卫视.png" tvg-name="三沙卫视" x-latency-ms="153" x-speed-kbps="14556",三沙卫视
-http://198.204.228.26/live/ssws.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="三沙卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三沙卫视.png" tvg-name="三沙卫视" x-latency-ms="189" x-speed-kbps="14540",三沙卫视
-http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="三沙卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三沙卫视.png" tvg-name="三沙卫视" x-latency-ms="217" x-speed-kbps="14538",三沙卫视
+#EXTINF:-1 group-title="卫视" tvg-id="三沙卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三沙卫视.png" tvg-name="三沙卫视" x-latency-ms="157" x-speed-kbps="21991",三沙卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立戏剧.png" tvg-name="三立戏剧" x-latency-ms="398" x-speed-kbps="1844",三立戏剧
+#EXTINF:-1 group-title="卫视" tvg-id="三沙卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三沙卫视.png" tvg-name="三沙卫视" x-latency-ms="143" x-speed-kbps="21822",三沙卫视
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-id="三沙卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三沙卫视.png" tvg-name="三沙卫视" x-latency-ms="96" x-speed-kbps="19432",三沙卫视
+http://198.204.228.26/live/ssws.m3u8
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立戏剧.png" tvg-name="三立戏剧" x-latency-ms="341" x-speed-kbps="2058",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="上虞新商都" tvg-logo="https://tb.zbds.top/logo/上虞新商都.png" tvg-name="上虞新商都" x-latency-ms="12467" x-speed-kbps="2029",上虞新商都
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="上虞新闻综合" tvg-logo="https://tb.zbds.top/logo/上虞新闻综合.png" tvg-name="上虞新闻综合" x-latency-ms="11398" x-speed-kbps="1966",上虞新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="地方台" tvg-id="世界地理" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界地理.png" tvg-name="世界地理" x-latency-ms="190" x-speed-kbps="14593",世界地理
-http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-id="世界地理" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界地理.png" tvg-name="世界地理" x-latency-ms="216" x-speed-kbps="14450",世界地理
+#EXTINF:-1 group-title="地方台" tvg-id="世界地理" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界地理.png" tvg-name="世界地理" x-latency-ms="166" x-speed-kbps="1987",世界地理
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
-#EXTINF:-1 group-title="地方台" tvg-id="东丰" tvg-logo="https://tb.zbds.top/logo/东丰.png" tvg-name="东丰" x-latency-ms="1264" x-speed-kbps="1903",东丰
+#EXTINF:-1 group-title="地方台" tvg-id="世界地理" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界地理.png" tvg-name="世界地理" x-latency-ms="158" x-speed-kbps="1961",世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 group-title="地方台" tvg-id="东丰" tvg-logo="https://tb.zbds.top/logo/东丰.png" tvg-name="东丰" x-latency-ms="1005" x-speed-kbps="2265",东丰
 http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
-#EXTINF:-1 group-title="卫视" tvg-id="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" tvg-name="东南卫视" x-latency-ms="142" x-speed-kbps="14576",东南卫视
-http://204.12.221.218:8181/3m1080p/dnws.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" tvg-name="东南卫视" x-latency-ms="214" x-speed-kbps="14539",东南卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
-#EXTINF:-1 group-title="卫视" tvg-id="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" tvg-name="东南卫视" x-latency-ms="191" x-speed-kbps="14538",东南卫视
+#EXTINF:-1 group-title="卫视" tvg-id="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" tvg-name="东南卫视" x-latency-ms="138" x-speed-kbps="21790",东南卫视
 http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="东方卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视.png" tvg-name="东方卫视" x-latency-ms="143" x-speed-kbps="14638",东方卫视
+#EXTINF:-1 group-title="卫视" tvg-id="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" tvg-name="东南卫视" x-latency-ms="102" x-speed-kbps="20623",东南卫视
+http://204.12.221.218:8181/3m1080p/dnws.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" tvg-name="东南卫视" x-latency-ms="141" x-speed-kbps="20551",东南卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
+#EXTINF:-1 group-title="卫视" tvg-id="东方卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视.png" tvg-name="东方卫视" x-latency-ms="96" x-speed-kbps="22413",东方卫视
 http://107.150.60.122/live/dfwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="东方卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视.png" tvg-name="东方卫视" x-latency-ms="191" x-speed-kbps="14615",东方卫视
+#EXTINF:-1 group-title="卫视" tvg-id="东方卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视.png" tvg-name="东方卫视" x-latency-ms="149" x-speed-kbps="20543",东方卫视
 http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="东方卫视4K" tvg-logo="https://tb.zbds.top/logo/东方卫视4K.png" tvg-name="东方卫视4K" x-latency-ms="1229" x-speed-kbps="1772",东方卫视4K
+#EXTINF:-1 group-title="卫视" tvg-id="东方卫视4K" tvg-logo="https://tb.zbds.top/logo/东方卫视4K.png" tvg-name="东方卫视4K" x-latency-ms="936" x-speed-kbps="1371",东方卫视4K
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森财经新闻台.png" tvg-name="东森财经新闻台" x-latency-ms="1075" x-speed-kbps="1816",东森财经新闻台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森财经新闻台.png" tvg-name="东森财经新闻台" x-latency-ms="3101" x-speed-kbps="6382",东森财经新闻台
 http://45.192.97.170:8880/play/1315.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="东森超视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森超视.png" tvg-name="东森超视" x-latency-ms="120" x-speed-kbps="8761",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="东莞新闻综合" tvg-logo="https://tb.zbds.top/logo/东莞新闻综合.png" tvg-name="东莞新闻综合" x-latency-ms="6484" x-speed-kbps="1457",东莞新闻综合
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森超视.png" tvg-name="东森超视" x-latency-ms="83" x-speed-kbps="9655",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="东莞新闻综合" tvg-logo="https://tb.zbds.top/logo/东莞新闻综合.png" tvg-name="东莞新闻综合" x-latency-ms="3106" x-speed-kbps="2029",东莞新闻综合
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="东莞生活资讯" tvg-logo="https://tb.zbds.top/logo/东莞生活资讯.png" tvg-name="东莞生活资讯" x-latency-ms="6336" x-speed-kbps="1680",东莞生活资讯
+#EXTINF:-1 group-title="地方台" tvg-id="东莞生活资讯" tvg-logo="https://tb.zbds.top/logo/东莞生活资讯.png" tvg-name="东莞生活资讯" x-latency-ms="3030" x-speed-kbps="1417",东莞生活资讯
 https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="东阳影视生活" tvg-logo="https://tb.zbds.top/logo/东阳影视生活.png" tvg-name="东阳影视生活" x-latency-ms="3829" x-speed-kbps="1032",东阳影视生活
-http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="中国蓝新闻" tvg-logo="https://tb.zbds.top/logo/中国蓝新闻.png" tvg-name="中国蓝新闻" x-latency-ms="567" x-speed-kbps="1706",中国蓝新闻
+#EXTINF:-1 group-title="地方台" tvg-id="中国蓝新闻" tvg-logo="https://tb.zbds.top/logo/中国蓝新闻.png" tvg-name="中国蓝新闻" x-latency-ms="643" x-speed-kbps="2044",中国蓝新闻
 http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中天娱乐台.png" tvg-name="中天娱乐台" x-latency-ms="137" x-resolution="640x360" x-speed-kbps="1827",中天娱乐台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中天娱乐台.png" tvg-name="中天娱乐台" x-latency-ms="175" x-resolution="640x360" x-speed-kbps="2224",中天娱乐台
 https://t.freetv.fun/live/zhong-tian-yu-le-1.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中天娱乐台.png" tvg-name="中天娱乐台" x-latency-ms="399" x-speed-kbps="1770",中天娱乐台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中天娱乐台.png" tvg-name="中天娱乐台" x-latency-ms="343" x-speed-kbps="2045",中天娱乐台
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中天新闻台.png" tvg-name="中天新闻台" x-latency-ms="138" x-resolution="640x360" x-speed-kbps="2567",中天新闻台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中天新闻台.png" tvg-name="中天新闻台" x-latency-ms="199" x-resolution="640x360" x-speed-kbps="1231",中天新闻台
 https://t.freetv.fun/live/zhong-tian-xin-wen-4.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视.png" tvg-name="中视" x-latency-ms="131" x-resolution="640x360" x-speed-kbps="14584",中视
-https://t.freetv.fun/live/zhong-shi-3.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视.png" tvg-name="中视" x-latency-ms="142" x-speed-kbps="14459",中视
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视.png" tvg-name="中视" x-latency-ms="100" x-speed-kbps="23478",中视
 http://74.91.26.218:82/live/ctv.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视新闻.png" tvg-name="中视新闻" x-latency-ms="143" x-speed-kbps="14635",中视新闻
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视.png" tvg-name="中视" x-latency-ms="184" x-resolution="640x360" x-speed-kbps="22125",中视
+https://t.freetv.fun/live/zhong-shi-3.m3u8
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视新闻.png" tvg-name="中视新闻" x-latency-ms="96" x-speed-kbps="23462",中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视经典.png" tvg-name="中视经典" x-latency-ms="138" x-resolution="640x360" x-speed-kbps="14573",中视经典
-https://t.freetv.fun/live/zhong-shi-jing-dian-1.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视经典.png" tvg-name="中视经典" x-latency-ms="143" x-speed-kbps="14467",中视经典
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视经典.png" tvg-name="中视经典" x-latency-ms="100" x-speed-kbps="20994",中视经典
 http://74.91.26.218:82/live/ctvjd.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视菁采台.png" tvg-name="中视菁采台" x-latency-ms="134" x-resolution="640x360" x-speed-kbps="14552",中视菁采台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视经典.png" tvg-name="中视经典" x-latency-ms="183" x-resolution="640x360" x-speed-kbps="20922",中视经典
+https://t.freetv.fun/live/zhong-shi-jing-dian-1.m3u8
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视菁采台.png" tvg-name="中视菁采台" x-latency-ms="176" x-resolution="640x360" x-speed-kbps="23176",中视菁采台
 https://t.freetv.fun/live/zhong-shi-jing-cai-1.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视菁采台.png" tvg-name="中视菁采台" x-latency-ms="145" x-speed-kbps="14467",中视菁采台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视菁采台.png" tvg-name="中视菁采台" x-latency-ms="95" x-speed-kbps="21071",中视菁采台
 http://74.91.26.218:82/live/ctvjc.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="乐至综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/乐至综合.png" tvg-name="乐至综合" x-latency-ms="546" x-speed-kbps="1967",乐至综合
+#EXTINF:-1 group-title="地方台" tvg-id="乐至综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/乐至综合.png" tvg-name="乐至综合" x-latency-ms="486" x-speed-kbps="2237",乐至综合
 http://175.155.106.72:89/live1/live1.m3u8?zsicd
-#EXTINF:-1 group-title="地方台" tvg-id="九台" tvg-logo="https://tb.zbds.top/logo/九台.png" tvg-name="九台" x-latency-ms="1705" x-speed-kbps="1940",九台
+#EXTINF:-1 group-title="地方台" tvg-id="九台" tvg-logo="https://tb.zbds.top/logo/九台.png" tvg-name="九台" x-latency-ms="1187" x-speed-kbps="2097",九台
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
-#EXTINF:-1 group-title="地方台" tvg-id="九台综合" tvg-logo="https://tb.zbds.top/logo/九台综合.png" tvg-name="九台综合" x-latency-ms="3362" x-speed-kbps="1424",九台综合
+#EXTINF:-1 group-title="地方台" tvg-id="九台综合" tvg-logo="https://tb.zbds.top/logo/九台综合.png" tvg-name="九台综合" x-latency-ms="1581" x-speed-kbps="1770",九台综合
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="云南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南卫视.png" tvg-name="云南卫视" x-latency-ms="145" x-speed-kbps="14605",云南卫视
-http://198.204.228.26/live/ynwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="云南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南卫视.png" tvg-name="云南卫视" x-latency-ms="144" x-speed-kbps="14604",云南卫视
+#EXTINF:-1 group-title="卫视" tvg-id="云南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南卫视.png" tvg-name="云南卫视" x-latency-ms="98" x-speed-kbps="23521",云南卫视
 http://107.150.60.122/live/ynwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="云南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南卫视.png" tvg-name="云南卫视" x-latency-ms="189" x-speed-kbps="14545",云南卫视
+#EXTINF:-1 group-title="卫视" tvg-id="云南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南卫视.png" tvg-name="云南卫视" x-latency-ms="96" x-speed-kbps="22253",云南卫视
+http://198.204.228.26/live/ynwshd.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="云南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南卫视.png" tvg-name="云南卫视" x-latency-ms="151" x-speed-kbps="21871",云南卫视
 http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-id="云霄综合" tvg-logo="https://tb.zbds.top/logo/云霄综合.png" tvg-name="云霄综合" x-latency-ms="1278" x-speed-kbps="1144",云霄综合
+#EXTINF:-1 group-title="地方台" tvg-id="云霄综合" tvg-logo="https://tb.zbds.top/logo/云霄综合.png" tvg-name="云霄综合" x-latency-ms="1292" x-speed-kbps="1653",云霄综合
 https://live.zzyxxw.com:2443/live/xwzh.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/五星体育.png" tvg-name="五星体育" x-latency-ms="136" x-resolution="640x360" x-speed-kbps="8369",五星体育
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/五星体育.png" tvg-name="五星体育" x-latency-ms="186" x-resolution="640x360" x-speed-kbps="9846",五星体育
 https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="井研综合" tvg-logo="https://tb.zbds.top/logo/井研综合.png" tvg-name="井研综合" x-latency-ms="2646" x-speed-kbps="1427",井研综合
+#EXTINF:-1 group-title="地方台" tvg-id="井研综合" tvg-logo="https://tb.zbds.top/logo/井研综合.png" tvg-name="井研综合" x-latency-ms="1903" x-speed-kbps="1680",井研综合
 http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="亳州农村" tvg-logo="https://tb.zbds.top/logo/亳州农村.png" tvg-name="亳州农村" x-latency-ms="2599" x-speed-kbps="107551",亳州农村
-http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
-#EXTINF:-1 group-title="卫视" tvg-id="人间卫视" tvg-logo="https://tb.zbds.top/logo/人间卫视.png" tvg-name="人间卫视" x-latency-ms="855" x-speed-kbps="1536",人间卫视
+#EXTINF:-1 group-title="地方台" tvg-id="亳州农村" tvg-logo="https://tb.zbds.top/logo/亳州农村.png" tvg-name="亳州农村" x-latency-ms="4624" x-speed-kbps="26402",亳州农村
+http://zbbf2.ahbztv.com/live/418.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="人间卫视" tvg-logo="https://tb.zbds.top/logo/人间卫视.png" tvg-name="人间卫视" x-latency-ms="718" x-speed-kbps="1729",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="伊犁哈萨克" tvg-logo="https://tb.zbds.top/logo/伊犁哈萨克.png" tvg-name="伊犁哈萨克" x-latency-ms="629" x-speed-kbps="1567",伊犁哈萨克
-http://110.153.180.106:55555/out_3/index.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="伊犁经济法制" tvg-logo="https://www.xn--rgv465a.top/tvlogo/伊犁经济法制.png" tvg-name="伊犁经济法制" x-latency-ms="666" x-speed-kbps="1597",伊犁经济法制
+#EXTINF:-1 group-title="地方台" tvg-id="伊犁哈萨克" tvg-logo="https://www.xn--rgv465a.top/tvlogo/伊犁哈萨克.png" tvg-name="伊犁哈萨克" x-latency-ms="543" x-speed-kbps="1805",伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+#EXTINF:-1 group-title="地方台" tvg-id="伊犁经济法制" tvg-logo="https://www.xn--rgv465a.top/tvlogo/伊犁经济法制.png" tvg-name="伊犁经济法制" x-latency-ms="566" x-speed-kbps="1631",伊犁经济法制
 http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
-#EXTINF:-1 group-title="地方台" tvg-id="伊犁维吾尔" tvg-logo="https://tb.zbds.top/logo/伊犁维吾尔.png" tvg-name="伊犁维吾尔" x-latency-ms="620" x-speed-kbps="1592",伊犁维吾尔
+#EXTINF:-1 group-title="地方台" tvg-id="伊犁维吾尔" tvg-logo="https://tb.zbds.top/logo/伊犁维吾尔.png" tvg-name="伊犁维吾尔" x-latency-ms="1595" x-speed-kbps="1532",伊犁维吾尔
 http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
-#EXTINF:-1 group-title="地方台" tvg-id="余姚新闻综合" tvg-logo="https://tb.zbds.top/logo/余姚新闻综合.png" tvg-name="余姚新闻综合" x-latency-ms="3402" x-speed-kbps="1645",余姚新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="余杭未来E" tvg-logo="https://tb.zbds.top/logo/余杭未来E.png" tvg-name="余杭未来E" x-latency-ms="3655" x-speed-kbps="2130",余杭未来E
-http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/八大精彩台.png" tvg-name="八大精彩台" x-latency-ms="4300" x-speed-kbps="3684",八大精彩台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/八大精彩台.png" tvg-name="八大精彩台" x-latency-ms="2209" x-speed-kbps="3301",八大精彩台
 http://45.192.97.170:8880/play/1329.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/公视.png" tvg-name="公视" x-latency-ms="142" x-speed-kbps="14561",公视
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/公视.png" tvg-name="公视" x-latency-ms="104" x-speed-kbps="22102",公视
 http://74.91.26.218:82/live/pts.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/公视.png" tvg-name="公视" x-latency-ms="133" x-resolution="640x360" x-speed-kbps="14551",公视
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/公视.png" tvg-name="公视" x-latency-ms="165" x-resolution="640x360" x-speed-kbps="8015",公视
 https://t.freetv.fun/live/gong-shi-2.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/公视台语台.png" tvg-name="公视台语台" x-latency-ms="144" x-speed-kbps="14454",公视台语台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/公视台语台.png" tvg-name="公视台语台" x-latency-ms="106" x-speed-kbps="23183",公视台语台
 http://74.91.26.218:82/live/ptsty.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="兰溪新闻综合" tvg-logo="https://tb.zbds.top/logo/兰溪新闻综合.png" tvg-name="兰溪新闻综合" x-latency-ms="985" x-speed-kbps="2004",兰溪新闻综合
-http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="兴隆综合" tvg-logo="https://tb.zbds.top/logo/兴隆综合.png" tvg-name="兴隆综合" x-latency-ms="1350" x-speed-kbps="2234",兴隆综合
+#EXTINF:-1 group-title="地方台" tvg-id="兴隆综合" tvg-logo="https://tb.zbds.top/logo/兴隆综合.png" tvg-name="兴隆综合" x-latency-ms="1116" x-speed-kbps="2516",兴隆综合
 https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="兵器科技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兵器科技.png" tvg-name="兵器科技" x-latency-ms="143" x-speed-kbps="14649",兵器科技
-http://173.208.212.130:8181/720p/gfjs.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="兵器科技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兵器科技.png" tvg-name="兵器科技" x-latency-ms="215" x-speed-kbps="14562",兵器科技
+#EXTINF:-1 group-title="地方台" tvg-id="兵器科技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兵器科技.png" tvg-name="兵器科技" x-latency-ms="151" x-speed-kbps="23210",兵器科技
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
-#EXTINF:-1 group-title="地方台" tvg-id="兵器科技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兵器科技.png" tvg-name="兵器科技" x-latency-ms="192" x-speed-kbps="14560",兵器科技
+#EXTINF:-1 group-title="地方台" tvg-id="兵器科技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兵器科技.png" tvg-name="兵器科技" x-latency-ms="131" x-speed-kbps="21132",兵器科技
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="内蒙古卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内蒙古卫视.png" tvg-name="内蒙古卫视" x-latency-ms="214" x-speed-kbps="14544",内蒙古卫视
+#EXTINF:-1 group-title="地方台" tvg-id="兵器科技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兵器科技.png" tvg-name="兵器科技" x-latency-ms="101" x-speed-kbps="21024",兵器科技
+http://173.208.212.130:8181/720p/gfjs.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="内蒙古卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内蒙古卫视.png" tvg-name="内蒙古卫视" x-latency-ms="163" x-speed-kbps="19778",内蒙古卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/军旅剧场.png" tvg-name="军旅剧场" x-latency-ms="517" x-speed-kbps="2030",军旅剧场
-http://123.118.55.165:45237/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/刘德华.png" tvg-name="刘德华" x-latency-ms="142" x-speed-kbps="14646",刘德华
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/刘德华.png" tvg-name="刘德华" x-latency-ms="89" x-speed-kbps="21749",刘德华
 http://173.208.234.146/live/vlldh.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动作影院.png" tvg-name="动作影院" x-latency-ms="518" x-speed-kbps="2032",动作影院
-http://123.118.55.165:45237/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/劲爆体育.png" tvg-name="劲爆体育" x-latency-ms="2776" x-speed-kbps="27082",劲爆体育
+#EXTINF:-1 group-title="地方台" tvg-id="剑阁综合" tvg-logo="https://tb.zbds.top/logo/剑阁综合.png" tvg-name="剑阁综合" x-latency-ms="1966" x-speed-kbps="1035",剑阁综合
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/劲爆体育.png" tvg-name="劲爆体育" x-latency-ms="1701" x-speed-kbps="37793",劲爆体育
 http://t.061899.xyz/tl/tl.php?id=jbty
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/劲爆体育.png" tvg-name="劲爆体育" x-latency-ms="521" x-speed-kbps="1879",劲爆体育
-http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" tvg-name="北京卫视" x-latency-ms="145" x-speed-kbps="14618",北京卫视
-http://204.12.221.218:8181/3m1080p/bjws.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" tvg-name="北京卫视" x-latency-ms="217" x-speed-kbps="14397",北京卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
-#EXTINF:-1 group-title="卫视" tvg-id="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" tvg-name="北京卫视" x-latency-ms="188" x-speed-kbps="14335",北京卫视
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/劲爆体育.png" tvg-name="劲爆体育" x-latency-ms="506" x-speed-kbps="2076",劲爆体育
+http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视" tvg-id="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" tvg-name="北京卫视" x-latency-ms="143" x-speed-kbps="23324",北京卫视
 http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="地方台" tvg-id="北京新闻" tvg-logo="https://tb.zbds.top/logo/北京新闻.png" tvg-name="北京新闻" x-latency-ms="1347" x-speed-kbps="4683",北京新闻
+#EXTINF:-1 group-title="卫视" tvg-id="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" tvg-name="北京卫视" x-latency-ms="150" x-speed-kbps="22003",北京卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
+#EXTINF:-1 group-title="卫视" tvg-id="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" tvg-name="北京卫视" x-latency-ms="100" x-speed-kbps="21192",北京卫视
+http://204.12.221.218:8181/3m1080p/bjws.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="北京新闻" tvg-logo="https://tb.zbds.top/logo/北京新闻.png" tvg-name="北京新闻" x-latency-ms="1078" x-speed-kbps="1271",北京新闻
 https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华视.png" tvg-name="华视" x-latency-ms="136" x-resolution="640x360" x-speed-kbps="14718",华视
-https://t.freetv.fun/live/hua-shi-3.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华视.png" tvg-name="华视" x-latency-ms="143" x-speed-kbps="14639",华视
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华视.png" tvg-name="华视" x-latency-ms="99" x-speed-kbps="23295",华视
 http://74.91.26.218:82/live/cts.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华视新闻.png" tvg-name="华视新闻" x-latency-ms="137" x-resolution="640x360" x-speed-kbps="14663",华视新闻
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华视.png" tvg-name="华视" x-latency-ms="196" x-resolution="640x360" x-speed-kbps="21506",华视
+https://t.freetv.fun/live/hua-shi-3.m3u8
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华视新闻.png" tvg-name="华视新闻" x-latency-ms="171" x-resolution="640x360" x-speed-kbps="23559",华视新闻
 https://t.freetv.fun/live/hua-shi-xin-wen-1.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="南宁影视娱乐" tvg-logo="https://tb.zbds.top/logo/南宁影视娱乐.png" tvg-name="南宁影视娱乐" x-latency-ms="1979" x-speed-kbps="2306",南宁影视娱乐
+#EXTINF:-1 group-title="地方台" tvg-id="南宁影视娱乐" tvg-logo="https://tb.zbds.top/logo/南宁影视娱乐.png" tvg-name="南宁影视娱乐" x-latency-ms="10913" x-speed-kbps="2333",南宁影视娱乐
 http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/卫生健康.png" tvg-name="卫生健康" x-latency-ms="359" x-speed-kbps="8752",卫生健康
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/卫生健康.png" tvg-name="卫生健康" x-latency-ms="331" x-speed-kbps="2433",卫生健康
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/卫生健康.png" tvg-name="卫生健康" x-latency-ms="686" x-speed-kbps="5565",卫生健康
 http://104.152.209.49:8181/720p/wsjk.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/发现之旅.png" tvg-name="发现之旅" x-latency-ms="219" x-speed-kbps="14645",发现之旅
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/发现之旅.png" tvg-name="发现之旅" x-latency-ms="190" x-speed-kbps="14545",发现之旅
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/卫生健康.png" tvg-name="卫生健康" x-latency-ms="162" x-speed-kbps="2085",卫生健康
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/发现之旅.png" tvg-name="发现之旅" x-latency-ms="133" x-speed-kbps="23360",发现之旅
 http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-id="古县综合" tvg-logo="https://tb.zbds.top/logo/古县综合.png" tvg-name="古县综合" x-latency-ms="1902" x-resolution="720x480" x-speed-kbps="1103",古县综合
-https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/古装剧场.png" tvg-name="古装剧场" x-latency-ms="518" x-speed-kbps="2039",古装剧场
-http://123.118.55.165:45237/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方台" tvg-id="可克达拉综合" tvg-logo="https://tb.zbds.top/logo/可克达拉综合.png" tvg-name="可克达拉综合" x-latency-ms="1099" x-speed-kbps="2021",可克达拉综合
-http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="吉林乡村" tvg-logo="https://tb.zbds.top/logo/吉林乡村.png" tvg-name="吉林乡村" x-latency-ms="1029" x-speed-kbps="2158",吉林乡村
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/发现之旅.png" tvg-name="发现之旅" x-latency-ms="163" x-speed-kbps="20658",发现之旅
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
+#EXTINF:-1 group-title="地方台" tvg-id="句容生活" tvg-logo="https://tb.zbds.top/logo/句容生活.png" tvg-name="句容生活" x-latency-ms="5687" x-resolution="1024x576" x-speed-kbps="1459",句容生活
+http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 group-title="地方台" tvg-id="合肥新闻" tvg-logo="https://tb.zbds.top/logo/合肥新闻.png" tvg-name="合肥新闻" x-latency-ms="470" x-speed-kbps="1569",合肥新闻
+http://112.27.235.94:8000/hls/18/index.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="吉林乡村" tvg-logo="https://tb.zbds.top/logo/吉林乡村.png" tvg-name="吉林乡村" x-latency-ms="730" x-speed-kbps="2785",吉林乡村
 https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" tvg-name="吉林卫视" x-latency-ms="189" x-speed-kbps="14629",吉林卫视
-http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" tvg-name="吉林卫视" x-latency-ms="216" x-speed-kbps="14566",吉林卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
-#EXTINF:-1 group-title="卫视" tvg-id="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" tvg-name="吉林卫视" x-latency-ms="1149" x-speed-kbps="9268",吉林卫视
+#EXTINF:-1 group-title="卫视" tvg-id="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" tvg-name="吉林卫视" x-latency-ms="96" x-speed-kbps="23544",吉林卫视
 http://204.12.221.218:8181/3m1080p/jlws.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/周星驰.png" tvg-name="周星驰" x-latency-ms="141" x-speed-kbps="14587",周星驰
+#EXTINF:-1 group-title="卫视" tvg-id="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" tvg-name="吉林卫视" x-latency-ms="142" x-speed-kbps="23295",吉林卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
+#EXTINF:-1 group-title="卫视" tvg-id="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" tvg-name="吉林卫视" x-latency-ms="144" x-speed-kbps="22746",吉林卫视
+http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="地方台" tvg-id="名山综合" tvg-logo="https://tb.zbds.top/logo/名山综合.png" tvg-name="名山综合" x-latency-ms="5844" x-speed-kbps="1032",名山综合
+https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/周星驰.png" tvg-name="周星驰" x-latency-ms="100" x-speed-kbps="23328",周星驰
 http://173.208.234.146/live/vlzxc.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/喜剧影院.png" tvg-name="喜剧影院" x-latency-ms="147" x-speed-kbps="12073",喜剧影院
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/喜剧影院.png" tvg-name="喜剧影院" x-latency-ms="99" x-speed-kbps="18238",喜剧影院
 http://74.91.26.218:82/live/vlxjyy.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/喜剧影院.png" tvg-name="喜剧影院" x-latency-ms="522" x-speed-kbps="2024",喜剧影院
-http://123.118.55.165:45237/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方台" tvg-id="嘉兴新闻综合" tvg-logo="https://tb.zbds.top/logo/嘉兴新闻综合.png" tvg-name="嘉兴新闻综合" x-latency-ms="636" x-speed-kbps="1654",嘉兴新闻综合
+#EXTINF:-1 group-title="地方台" tvg-id="嘉兴新闻综合" tvg-logo="https://tb.zbds.top/logo/嘉兴新闻综合.png" tvg-name="嘉兴新闻综合" x-latency-ms="577" x-speed-kbps="2077",嘉兴新闻综合
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="四川卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视.png" tvg-name="四川卫视" x-latency-ms="223" x-speed-kbps="14599",四川卫视
+#EXTINF:-1 group-title="卫视" tvg-id="四川卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视.png" tvg-name="四川卫视" x-latency-ms="155" x-speed-kbps="24735",四川卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd
-#EXTINF:-1 group-title="地方台" tvg-id="固镇新闻" tvg-logo="https://tb.zbds.top/logo/固镇新闻.png" tvg-name="固镇新闻" x-latency-ms="685" x-speed-kbps="1851",固镇新闻
-http://www.guzhenm.com:7001/hls/hd-live.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/大湾区卫视.png" tvg-name="大湾区卫视" x-latency-ms="136" x-resolution="640x360" x-speed-kbps="14658",大湾区卫视
+#EXTINF:-1 group-title="地方台" tvg-id="四川科教" tvg-logo="https://tb.zbds.top/logo/四川科教.png" tvg-name="四川科教" x-latency-ms="1183" x-speed-kbps="2054",四川科教
+http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/大湾区卫视.png" tvg-name="大湾区卫视" x-latency-ms="191" x-resolution="640x360" x-speed-kbps="23047",大湾区卫视
 https://t.freetv.fun/live/da-wan-qu-wei-shi-8.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="大湾区卫视" tvg-logo="https://tb.zbds.top/logo/大湾区卫视.png" tvg-name="大湾区卫视" x-latency-ms="543" x-speed-kbps="1488",大湾区卫视
+#EXTINF:-1 group-title="卫视" tvg-id="大湾区卫视" tvg-logo="https://tb.zbds.top/logo/大湾区卫视.png" tvg-name="大湾区卫视" x-latency-ms="452" x-speed-kbps="1619",大湾区卫视
 http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="天元围棋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天元围棋.png" tvg-name="天元围棋" x-latency-ms="144" x-speed-kbps="14626",天元围棋
+#EXTINF:-1 group-title="地方台" tvg-id="天元围棋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天元围棋.png" tvg-name="天元围棋" x-latency-ms="101" x-speed-kbps="22437",天元围棋
 http://204.12.221.218:8181/3m1080p/gztywq.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="天津体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津体育.png" tvg-name="天津体育" x-latency-ms="213" x-speed-kbps="14643",天津体育
+#EXTINF:-1 group-title="地方台" tvg-id="天津体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津体育.png" tvg-name="天津体育" x-latency-ms="158" x-speed-kbps="22115",天津体育
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
-#EXTINF:-1 group-title="卫视" tvg-id="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" tvg-name="天津卫视" x-latency-ms="141" x-speed-kbps="14519",天津卫视
+#EXTINF:-1 group-title="卫视" tvg-id="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" tvg-name="天津卫视" x-latency-ms="95" x-speed-kbps="23185",天津卫视
 http://107.150.60.122/live/tjwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" tvg-name="天津卫视" x-latency-ms="218" x-speed-kbps="14296",天津卫视
+#EXTINF:-1 group-title="卫视" tvg-id="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" tvg-name="天津卫视" x-latency-ms="149" x-speed-kbps="20599",天津卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd
-#EXTINF:-1 group-title="卫视" tvg-id="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" tvg-name="天津卫视" x-latency-ms="507" x-speed-kbps="9470",天津卫视
+#EXTINF:-1 group-title="卫视" tvg-id="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" tvg-name="天津卫视" x-latency-ms="603" x-speed-kbps="13298",天津卫视
 http://207.56.13.146:81/cdnlive/tjws.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="天祝综合" tvg-logo="https://tb.zbds.top/logo/天祝综合.png" tvg-name="天祝综合" x-latency-ms="1130" x-speed-kbps="1938",天祝综合
+#EXTINF:-1 group-title="地方台" tvg-id="天祝综合" tvg-logo="https://tb.zbds.top/logo/天祝综合.png" tvg-name="天祝综合" x-latency-ms="1759" x-speed-kbps="2018",天祝综合
 https://play.kankanlive.com/live/1656487214793905.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="太谷新闻综合" tvg-logo="https://tb.zbds.top/logo/太谷新闻综合.png" tvg-name="太谷新闻综合" x-latency-ms="2191" x-speed-kbps="5839",太谷新闻综合
+#EXTINF:-1 group-title="地方台" tvg-id="太谷新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/太谷新闻综合.png" tvg-name="太谷新闻综合" x-latency-ms="663" x-speed-kbps="6250",太谷新闻综合
 https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
-#EXTINF:-1 group-title="地方台" tvg-id="奎屯哈萨克语" tvg-logo="https://tb.zbds.top/logo/奎屯哈萨克语.png" tvg-name="奎屯哈萨克语" x-latency-ms="678" x-speed-kbps="1121",奎屯哈萨克语
+#EXTINF:-1 group-title="地方台" tvg-id="奎屯哈萨克语" tvg-logo="https://tb.zbds.top/logo/奎屯哈萨克语.png" tvg-name="奎屯哈萨克语" x-latency-ms="637" x-speed-kbps="1402",奎屯哈萨克语
 http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
-#EXTINF:-1 group-title="地方台" tvg-id="奎屯汉语" tvg-logo="https://tb.zbds.top/logo/奎屯汉语.png" tvg-name="奎屯汉语" x-latency-ms="661" x-speed-kbps="1236",奎屯汉语
+#EXTINF:-1 group-title="地方台" tvg-id="奎屯汉语" tvg-logo="https://tb.zbds.top/logo/奎屯汉语.png" tvg-name="奎屯汉语" x-latency-ms="626" x-speed-kbps="1627",奎屯汉语
 http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
-#EXTINF:-1 group-title="地方台" tvg-id="女性时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女性时尚.png" tvg-name="女性时尚" x-latency-ms="142" x-speed-kbps="14547",女性时尚
-http://173.208.212.130:8181/720p/nxss.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="女性时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女性时尚.png" tvg-name="女性时尚" x-latency-ms="191" x-speed-kbps="14532",女性时尚
-http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-id="女性时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女性时尚.png" tvg-name="女性时尚" x-latency-ms="215" x-speed-kbps="14524",女性时尚
+#EXTINF:-1 group-title="地方台" tvg-id="女性时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女性时尚.png" tvg-name="女性时尚" x-latency-ms="147" x-speed-kbps="20906",女性时尚
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
-#EXTINF:-1 group-title="卫视" tvg-id="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" tvg-name="安徽卫视" x-latency-ms="291" x-speed-kbps="4834",安徽卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd
-#EXTINF:-1 group-title="卫视" tvg-id="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" tvg-name="安徽卫视" x-latency-ms="260" x-speed-kbps="4814",安徽卫视
-http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" tvg-name="安徽卫视" x-latency-ms="282" x-speed-kbps="4400",安徽卫视
+#EXTINF:-1 group-title="地方台" tvg-id="女性时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女性时尚.png" tvg-name="女性时尚" x-latency-ms="141" x-speed-kbps="20333",女性时尚
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 group-title="地方台" tvg-id="女性时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女性时尚.png" tvg-name="女性时尚" x-latency-ms="859" x-speed-kbps="14288",女性时尚
+http://207.56.13.146:81/cdnlive/nxss.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" tvg-name="安徽卫视" x-latency-ms="340" x-speed-kbps="4148",安徽卫视
 http://107.150.60.122/live/ahwshd.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="安徽导视" tvg-logo="https://tb.zbds.top/logo/安徽导视.png" tvg-name="安徽导视" x-latency-ms="593" x-speed-kbps="2315",安徽导视
+#EXTINF:-1 group-title="卫视" tvg-id="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" tvg-name="安徽卫视" x-latency-ms="375" x-speed-kbps="3874",安徽卫视
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-id="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" tvg-name="安徽卫视" x-latency-ms="396" x-speed-kbps="3806",安徽卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd
+#EXTINF:-1 group-title="地方台" tvg-id="安徽导视" tvg-logo="https://tb.zbds.top/logo/安徽导视.png" tvg-name="安徽导视" x-latency-ms="444" x-speed-kbps="2657",安徽导视
 http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="安徽综艺体育" tvg-logo="https://tb.zbds.top/logo/安徽综艺体育.png" tvg-name="安徽综艺体育" x-latency-ms="497" x-speed-kbps="1624",安徽综艺体育
-http://112.27.235.94:8000/hls/25/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" tvg-name="山东卫视" x-latency-ms="143" x-speed-kbps="14610",山东卫视
-http://107.150.60.122/live/sdwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" tvg-name="山东卫视" x-latency-ms="216" x-speed-kbps="14451",山东卫视
+#EXTINF:-1 group-title="卫视" tvg-id="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" tvg-name="山东卫视" x-latency-ms="166" x-speed-kbps="21820",山东卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd
-#EXTINF:-1 group-title="卫视" tvg-id="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" tvg-name="山东卫视" x-latency-ms="599" x-speed-kbps="11652",山东卫视
+#EXTINF:-1 group-title="卫视" tvg-id="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" tvg-name="山东卫视" x-latency-ms="96" x-speed-kbps="20673",山东卫视
+http://107.150.60.122/live/sdwshd.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" tvg-name="山东卫视" x-latency-ms="465" x-speed-kbps="14976",山东卫视
 http://207.56.13.146:81/cdnlive/sdws.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="山东教育" tvg-logo="https://tb.zbds.top/logo/山东教育.png" tvg-name="山东教育" x-latency-ms="1874" x-speed-kbps="1355",山东教育
+#EXTINF:-1 group-title="地方台" tvg-id="山东教育" tvg-logo="https://tb.zbds.top/logo/山东教育.png" tvg-name="山东教育" x-latency-ms="1865" x-speed-kbps="2231",山东教育
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="山西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西卫视.png" tvg-name="山西卫视" x-latency-ms="216" x-speed-kbps="14503",山西卫视
+#EXTINF:-1 group-title="卫视" tvg-id="山西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西卫视.png" tvg-name="山西卫视" x-latency-ms="153" x-speed-kbps="21689",山西卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sxwshd
-#EXTINF:-1 group-title="卫视" tvg-id="山西卫视" tvg-logo="https://tb.zbds.top/logo/山西卫视.png" tvg-name="山西卫视" x-latency-ms="501" x-speed-kbps="2112",山西卫视
+#EXTINF:-1 group-title="卫视" tvg-id="山西卫视" tvg-logo="https://tb.zbds.top/logo/山西卫视.png" tvg-name="山西卫视" x-latency-ms="474" x-speed-kbps="2378",山西卫视
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="嵊州新闻综合" tvg-logo="https://tb.zbds.top/logo/嵊州新闻综合.png" tvg-name="嵊州新闻综合" x-latency-ms="545" x-speed-kbps="1306",嵊州新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="嵊泗综合" tvg-logo="https://tb.zbds.top/logo/嵊泗综合.png" tvg-name="嵊泗综合" x-latency-ms="611" x-speed-kbps="1385",嵊泗综合
-http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="平泉综合" tvg-logo="https://tb.zbds.top/logo/平泉综合.png" tvg-name="平泉综合" x-latency-ms="935" x-speed-kbps="2144",平泉综合
+#EXTINF:-1 group-title="地方台" tvg-id="平泉综合" tvg-logo="https://tb.zbds.top/logo/平泉综合.png" tvg-name="平泉综合" x-latency-ms="704" x-speed-kbps="2331",平泉综合
 https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="平湖民生休闲" tvg-logo="https://tb.zbds.top/logo/平湖民生休闲.png" tvg-name="平湖民生休闲" x-latency-ms="2697" x-speed-kbps="1051",平湖民生休闲
-http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/广东体育.png" tvg-name="广东体育" x-latency-ms="130" x-resolution="1920x1080" x-speed-kbps="14418",广东体育
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/广东体育.png" tvg-name="广东体育" x-latency-ms="177" x-resolution="1920x1080" x-speed-kbps="23054",广东体育
 https://stream1.freetv.fun/869475cf6ab5d187816a1b7fbd8649cfc0b41c452e5595eabb2a36e51a61eecf.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" tvg-name="广东卫视" x-latency-ms="142" x-speed-kbps="14665",广东卫视
+#EXTINF:-1 group-title="卫视" tvg-id="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" tvg-name="广东卫视" x-latency-ms="96" x-speed-kbps="21939",广东卫视
 http://107.150.60.122/live/gdwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" tvg-name="广东卫视" x-latency-ms="216" x-speed-kbps="14615",广东卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
-#EXTINF:-1 group-title="卫视" tvg-id="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" tvg-name="广东卫视" x-latency-ms="1159" x-speed-kbps="13078",广东卫视
+#EXTINF:-1 group-title="卫视" tvg-id="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" tvg-name="广东卫视" x-latency-ms="95" x-speed-kbps="21715",广东卫视
 http://204.12.221.218:8181/3m1080p/gdws.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" tvg-name="广东民生" x-latency-ms="189" x-speed-kbps="14570",广东民生
+#EXTINF:-1 group-title="卫视" tvg-id="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" tvg-name="广东卫视" x-latency-ms="154" x-speed-kbps="19987",广东卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
+#EXTINF:-1 group-title="地方台" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" tvg-name="广东民生" x-latency-ms="127" x-speed-kbps="20402",广东民生
 http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-id="广安公共" tvg-logo="https://tb.zbds.top/logo/广安公共.png" tvg-name="广安公共" x-latency-ms="881" x-speed-kbps="1855",广安公共
+#EXTINF:-1 group-title="地方台" tvg-id="广安公共" tvg-logo="https://tb.zbds.top/logo/广安公共.png" tvg-name="广安公共" x-latency-ms="2029" x-speed-kbps="1640",广安公共
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" tvg-name="广西卫视" x-latency-ms="142" x-speed-kbps="14738",广西卫视
-http://198.204.228.26/live/gxwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" tvg-name="广西卫视" x-latency-ms="1196" x-speed-kbps="14604",广西卫视
+#EXTINF:-1 group-title="地方台" tvg-id="广德生活" tvg-logo="https://tb.zbds.top/logo/广德生活.png" tvg-name="广德生活" x-latency-ms="6019" x-speed-kbps="1582",广德生活
+https://live.gdtv.ah.cn/live/newsTV.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" tvg-name="广西卫视" x-latency-ms="138" x-speed-kbps="23151",广西卫视
 http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" tvg-name="广西卫视" x-latency-ms="214" x-speed-kbps="14576",广西卫视
+#EXTINF:-1 group-title="卫视" tvg-id="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" tvg-name="广西卫视" x-latency-ms="95" x-speed-kbps="22320",广西卫视
+http://198.204.228.26/live/gxwshd.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" tvg-name="广西卫视" x-latency-ms="146" x-speed-kbps="21903",广西卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
-#EXTINF:-1 group-title="地方台" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" tvg-name="广西国际" x-latency-ms="216" x-speed-kbps="14701",广西国际
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxgj
-#EXTINF:-1 group-title="地方台" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" tvg-name="广西国际" x-latency-ms="144" x-speed-kbps="14641",广西国际
-http://192.151.150.154/live/gxgj.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" tvg-name="广西国际" x-latency-ms="143" x-speed-kbps="14639",广西国际
+#EXTINF:-1 group-title="地方台" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" tvg-name="广西国际" x-latency-ms="92" x-speed-kbps="22382",广西国际
 http://198.204.228.26/live/gxgj.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" tvg-name="广西新闻" x-latency-ms="142" x-speed-kbps="14621",广西新闻
-http://192.151.150.154/live/gxxw.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" tvg-name="广西新闻" x-latency-ms="143" x-speed-kbps="14587",广西新闻
+#EXTINF:-1 group-title="地方台" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" tvg-name="广西国际" x-latency-ms="154" x-speed-kbps="20199",广西国际
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxgj
+#EXTINF:-1 group-title="地方台" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" tvg-name="广西国际" x-latency-ms="101" x-speed-kbps="19887",广西国际
+http://192.151.150.154/live/gxgj.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" tvg-name="广西新闻" x-latency-ms="91" x-speed-kbps="24707",广西新闻
 http://107.150.60.122/live/gxxw.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" tvg-name="广西新闻" x-latency-ms="193" x-speed-kbps="14583",广西新闻
-http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/康熙王朝.png" tvg-name="康熙王朝" x-latency-ms="142" x-speed-kbps="14515",康熙王朝
+#EXTINF:-1 group-title="地方台" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" tvg-name="广西新闻" x-latency-ms="91" x-speed-kbps="21010",广西新闻
+http://198.204.228.26/live/gxxw.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" tvg-name="广西新闻" x-latency-ms="102" x-speed-kbps="20764",广西新闻
+http://192.151.150.154/live/gxxw.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="庆元综合" tvg-logo="https://tb.zbds.top/logo/庆元综合.png" tvg-name="庆元综合" x-latency-ms="4571" x-speed-kbps="1179",庆元综合
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/康熙王朝.png" tvg-name="康熙王朝" x-latency-ms="98" x-speed-kbps="22041",康熙王朝
 http://173.208.234.146/live/lbkangxiwc.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="延边卫视" tvg-logo="https://tb.zbds.top/logo/延边卫视.png" tvg-name="延边卫视" x-latency-ms="1703" x-speed-kbps="8218",延边卫视
-https://srs.iyb983.cn/video/CYS/index.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="开化国家公园" tvg-logo="https://tb.zbds.top/logo/开化国家公园.png" tvg-name="开化国家公园" x-latency-ms="1022" x-speed-kbps="2024",开化国家公园
-http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="德惠综合" tvg-logo="https://tb.zbds.top/logo/德惠综合.png" tvg-name="德惠综合" x-latency-ms="1153" x-speed-kbps="1206",德惠综合
-http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="怀仁综合" tvg-logo="https://tb.zbds.top/logo/怀仁综合.png" tvg-name="怀仁综合" x-latency-ms="2806" x-speed-kbps="1033",怀仁综合
-https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" tvg-name="怀旧剧场" x-latency-ms="231" x-speed-kbps="14614",怀旧剧场
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
-#EXTINF:-1 group-title="地方台" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" tvg-name="怀旧剧场" x-latency-ms="145" x-speed-kbps="13265",怀旧剧场
-http://173.208.212.130:8181/720p/hjjc.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" tvg-name="怀旧剧场" x-latency-ms="191" x-speed-kbps="13057",怀旧剧场
+#EXTINF:-1 group-title="卫视" tvg-id="延边卫视" tvg-logo="https://tb.zbds.top/logo/延边卫视.png" tvg-name="延边卫视" x-latency-ms="2721" x-speed-kbps="2246",延边卫视
+https://srs.iyb983.cn:443/video/CYS/index.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="开化新闻综合" tvg-logo="https://tb.zbds.top/logo/开化新闻综合.png" tvg-name="开化新闻综合" x-latency-ms="6433" x-speed-kbps="1219",开化新闻综合
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="地方台" tvg-id="张掖新闻综合" tvg-logo="https://tb.zbds.top/logo/张掖新闻综合.png" tvg-name="张掖新闻综合" x-latency-ms="998" x-speed-kbps="2145",张掖新闻综合
+https://play.kankanlive.com/live/1720583434627241.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" tvg-name="怀旧剧场" x-latency-ms="134" x-speed-kbps="22356",怀旧剧场
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/成龙.png" tvg-name="成龙" x-latency-ms="141" x-speed-kbps="14589",成龙
+#EXTINF:-1 group-title="地方台" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" tvg-name="怀旧剧场" x-latency-ms="95" x-speed-kbps="22207",怀旧剧场
+http://173.208.212.130:8181/720p/hjjc.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" tvg-name="怀旧剧场" x-latency-ms="106" x-speed-kbps="22060",怀旧剧场
+http://107.150.60.122/live/hjjc.m3u8
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/成龙.png" tvg-name="成龙" x-latency-ms="95" x-speed-kbps="24379",成龙
 http://173.208.234.146/live/vlcl.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="数码时代" tvg-logo="https://tb.zbds.top/logo/数码时代.png" tvg-name="数码时代" x-latency-ms="722" x-speed-kbps="1807",数码时代
+#EXTINF:-1 group-title="地方台" tvg-id="数码时代" tvg-logo="https://tb.zbds.top/logo/数码时代.png" tvg-name="数码时代" x-latency-ms="502" x-speed-kbps="3051",数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
-#EXTINF:-1 group-title="地方台" tvg-id="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文化精品.png" tvg-name="文化精品" x-latency-ms="194" x-speed-kbps="14675",文化精品
+#EXTINF:-1 group-title="地方台" tvg-id="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文化精品.png" tvg-name="文化精品" x-latency-ms="146" x-speed-kbps="24758",文化精品
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
+#EXTINF:-1 group-title="地方台" tvg-id="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文化精品.png" tvg-name="文化精品" x-latency-ms="142" x-speed-kbps="21668",文化精品
 http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-id="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文化精品.png" tvg-name="文化精品" x-latency-ms="146" x-speed-kbps="14655",文化精品
-http://107.150.60.122/live/ysjp.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文化精品.png" tvg-name="文化精品" x-latency-ms="143" x-speed-kbps="14588",文化精品
+#EXTINF:-1 group-title="地方台" tvg-id="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文化精品.png" tvg-name="文化精品" x-latency-ms="90" x-speed-kbps="20905",文化精品
 http://173.208.212.130:8181/720p/ysjp.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="文成综合" tvg-logo="https://tb.zbds.top/logo/文成综合.png" tvg-name="文成综合" x-latency-ms="5564" x-speed-kbps="1144",文成综合
-http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="卫视" tvg-id="新疆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新疆卫视.png" tvg-name="新疆卫视" x-latency-ms="144" x-speed-kbps="14624",新疆卫视
+#EXTINF:-1 group-title="卫视" tvg-id="新疆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新疆卫视.png" tvg-name="新疆卫视" x-latency-ms="101" x-speed-kbps="23054",新疆卫视
 http://107.150.60.122/live/xjws.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="新疆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新疆卫视.png" tvg-name="新疆卫视" x-latency-ms="216" x-speed-kbps="14594",新疆卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws
-#EXTINF:-1 group-title="卫视" tvg-id="新疆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新疆卫视.png" tvg-name="新疆卫视" x-latency-ms="233" x-speed-kbps="14473",新疆卫视
+#EXTINF:-1 group-title="卫视" tvg-id="新疆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新疆卫视.png" tvg-name="新疆卫视" x-latency-ms="95" x-speed-kbps="21215",新疆卫视
 http://198.204.228.26/live/xjws.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/无线新闻.png" tvg-name="无线新闻" x-latency-ms="817" x-speed-kbps="36428",无线新闻
+#EXTINF:-1 group-title="卫视" tvg-id="新疆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新疆卫视.png" tvg-name="新疆卫视" x-latency-ms="132" x-speed-kbps="20682",新疆卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws
+#EXTINF:-1 group-title="地方台" tvg-id="新闻综合" tvg-logo="https://tb.zbds.top/logo/新闻综合.png" tvg-name="新闻综合" x-latency-ms="2053" x-speed-kbps="2201",新闻综合
+https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/无线新闻.png" tvg-name="无线新闻" x-latency-ms="795" x-speed-kbps="34128",无线新闻
 http://r.jdshipin.com/CkuBd
-#EXTINF:-1 group-title="地方台" tvg-id="昌黎综合" tvg-logo="https://tb.zbds.top/logo/昌黎综合.png" tvg-name="昌黎综合" x-latency-ms="788" x-speed-kbps="2252",昌黎综合
+#EXTINF:-1 group-title="地方台" tvg-id="昌黎综合" tvg-logo="https://tb.zbds.top/logo/昌黎综合.png" tvg-name="昌黎综合" x-latency-ms="732" x-speed-kbps="2431",昌黎综合
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="易门综合" tvg-logo="https://tb.zbds.top/logo/易门综合.png" tvg-name="易门综合" x-latency-ms="1646" x-speed-kbps="2093",易门综合
-https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/星空卫视.png" tvg-name="星空卫视" x-latency-ms="136" x-resolution="640x360" x-speed-kbps="1599",星空卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/星空卫视.png" tvg-name="星空卫视" x-latency-ms="169" x-resolution="640x360" x-speed-kbps="1842",星空卫视
 https://t.freetv.fun/live/xing-kong-wei-shi-1.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="来宾综合" tvg-logo="https://tb.zbds.top/logo/来宾综合.png" tvg-name="来宾综合" x-latency-ms="1790" x-resolution="1920x1080" x-speed-kbps="1645",来宾综合
+#EXTINF:-1 group-title="地方台" tvg-id="来宾综合" tvg-logo="https://tb.zbds.top/logo/来宾综合.png" tvg-name="来宾综合" x-latency-ms="1034" x-resolution="1920x1080" x-speed-kbps="1618",来宾综合
 http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="松潘新闻综合" tvg-logo="https://tb.zbds.top/logo/松潘新闻综合.png" tvg-name="松潘新闻综合" x-latency-ms="905" x-speed-kbps="1518",松潘新闻综合
+#EXTINF:-1 group-title="地方台" tvg-id="松潘新闻综合" tvg-logo="https://tb.zbds.top/logo/松潘新闻综合.png" tvg-name="松潘新闻综合" x-latency-ms="1403" x-speed-kbps="2055",松潘新闻综合
 http://live.spccmc.com:90/live/spxwzh.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/林正英.png" tvg-name="林正英" x-latency-ms="133" x-resolution="640x360" x-speed-kbps="14526",林正英
-https://t.freetv.fun/live/lin-zheng-ying-ying-yuan-4.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/林正英.png" tvg-name="林正英" x-latency-ms="143" x-speed-kbps="14526",林正英
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/林正英.png" tvg-name="林正英" x-latency-ms="100" x-speed-kbps="24854",林正英
 http://173.208.234.146/live/vllzy.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/武林外传.png" tvg-name="武林外传" x-latency-ms="141" x-speed-kbps="14589",武林外传
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/林正英.png" tvg-name="林正英" x-latency-ms="173" x-resolution="640x360" x-speed-kbps="22946",林正英
+https://t.freetv.fun/live/lin-zheng-ying-ying-yuan-4.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="柳河" tvg-logo="https://tb.zbds.top/logo/柳河.png" tvg-name="柳河" x-latency-ms="1749" x-speed-kbps="1370",柳河
+http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="地方台" tvg-id="桦甸" tvg-logo="https://tb.zbds.top/logo/桦甸.png" tvg-name="桦甸" x-latency-ms="813" x-speed-kbps="2244",桦甸
+http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/武林外传.png" tvg-name="武林外传" x-latency-ms="103" x-speed-kbps="20610",武林外传
 http://173.208.234.146/live/lbwlwz.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视.png" tvg-name="民视" x-latency-ms="134" x-resolution="640x360" x-speed-kbps="14662",民视
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视.png" tvg-name="民视" x-latency-ms="188" x-resolution="640x360" x-speed-kbps="23144",民视
 https://t.freetv.fun/live/min-shi-2.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视.png" tvg-name="民视" x-latency-ms="147" x-speed-kbps="14608",民视
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视.png" tvg-name="民视" x-latency-ms="96" x-speed-kbps="22273",民视
 http://74.91.26.218:82/live/ftv.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视影剧台.png" tvg-name="民视影剧台" x-latency-ms="1025" x-speed-kbps="1865",民视影剧台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视影剧台.png" tvg-name="民视影剧台" x-latency-ms="934" x-speed-kbps="1859",民视影剧台
 http://45.192.97.170:8880/play/1183.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视新闻台.png" tvg-name="民视新闻台" x-latency-ms="349" x-speed-kbps="8636",民视新闻台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视新闻台.png" tvg-name="民视新闻台" x-latency-ms="84" x-speed-kbps="9869",民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视第一台.png" tvg-name="民视第一台" x-latency-ms="145" x-speed-kbps="14646",民视第一台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视第一台.png" tvg-name="民视第一台" x-latency-ms="91" x-speed-kbps="24995",民视第一台
 http://74.91.26.218:82/live/ftvdy.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视第一台.png" tvg-name="民视第一台" x-latency-ms="131" x-resolution="640x360" x-speed-kbps="14590",民视第一台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视第一台.png" tvg-name="民视第一台" x-latency-ms="178" x-resolution="640x360" x-speed-kbps="21930",民视第一台
 https://t.freetv.fun/live/min-shi-di-yi-1.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视综艺台.png" tvg-name="民视综艺台" x-latency-ms="939" x-speed-kbps="1974",民视综艺台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视综艺台.png" tvg-name="民视综艺台" x-latency-ms="2049" x-speed-kbps="3395",民视综艺台
 http://45.192.97.170:8880/play/1321.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="永嘉新闻综合" tvg-logo="https://tb.zbds.top/logo/永嘉新闻综合.png" tvg-name="永嘉新闻综合" x-latency-ms="4252" x-speed-kbps="1116",永嘉新闻综合
+#EXTINF:-1 group-title="地方台" tvg-id="永嘉新闻综合" tvg-logo="https://tb.zbds.top/logo/永嘉新闻综合.png" tvg-name="永嘉新闻综合" x-latency-ms="1223" x-speed-kbps="1451",永嘉新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="永昌综合" tvg-logo="https://tb.zbds.top/logo/永昌综合.png" tvg-name="永昌综合" x-latency-ms="1166" x-speed-kbps="2000",永昌综合
+#EXTINF:-1 group-title="地方台" tvg-id="永昌综合" tvg-logo="https://tb.zbds.top/logo/永昌综合.png" tvg-name="永昌综合" x-latency-ms="662" x-speed-kbps="2024",永昌综合
 https://play.kankanlive.com/live/1652755738635915.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="江夏新闻综合" tvg-logo="https://tb.zbds.top/logo/江夏新闻综合.png" tvg-name="江夏新闻综合" x-latency-ms="856" x-speed-kbps="1975",江夏新闻综合
+#EXTINF:-1 group-title="地方台" tvg-id="江夏新闻综合" tvg-logo="https://tb.zbds.top/logo/江夏新闻综合.png" tvg-name="江夏新闻综合" x-latency-ms="2075" x-speed-kbps="1674",江夏新闻综合
 http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
-#EXTINF:-1 group-title="卫视" tvg-id="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" tvg-name="江苏卫视" x-latency-ms="144" x-speed-kbps="14669",江苏卫视
+#EXTINF:-1 group-title="卫视" tvg-id="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" tvg-name="江苏卫视" x-latency-ms="90" x-speed-kbps="23502",江苏卫视
 http://107.150.60.122/live/jswshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" tvg-name="江苏卫视" x-latency-ms="216" x-speed-kbps="13217",江苏卫视
+#EXTINF:-1 group-title="卫视" tvg-id="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" tvg-name="江苏卫视" x-latency-ms="150" x-speed-kbps="20093",江苏卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
-#EXTINF:-1 group-title="卫视" tvg-id="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" tvg-name="江苏卫视" x-latency-ms="546" x-speed-kbps="10562",江苏卫视
+#EXTINF:-1 group-title="卫视" tvg-id="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" tvg-name="江苏卫视" x-latency-ms="439" x-speed-kbps="13726",江苏卫视
 http://207.56.13.146:81/cdnlive/jsws.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" tvg-name="江西卫视" x-latency-ms="189" x-speed-kbps="14538",江西卫视
-http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" tvg-name="江西卫视" x-latency-ms="143" x-speed-kbps="13992",江西卫视
+#EXTINF:-1 group-title="卫视" tvg-id="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" tvg-name="江西卫视" x-latency-ms="92" x-speed-kbps="22587",江西卫视
 http://204.12.221.218:8181/3m1080p/jxws.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="汶川新闻综合" tvg-logo="https://tb.zbds.top/logo/汶川新闻综合.png" tvg-name="汶川新闻综合" x-latency-ms="772" x-speed-kbps="1269",汶川新闻综合
+#EXTINF:-1 group-title="卫视" tvg-id="江西卫视" tvg-logo="https://tb.zbds.top/logo/江西卫视.png" tvg-name="江西卫视" x-latency-ms="91" x-speed-kbps="22196",江西卫视
+http://192.151.150.154/live/jxwshd.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" tvg-name="江西卫视" x-latency-ms="132" x-speed-kbps="19961",江西卫视
+http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="地方台" tvg-id="汶川新闻综合" tvg-logo="https://tb.zbds.top/logo/汶川新闻综合.png" tvg-name="汶川新闻综合" x-latency-ms="525" x-speed-kbps="1519",汶川新闻综合
 http://live.iwcmt.cn:90/live/zhxw.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="汾西综合" tvg-logo="https://tb.zbds.top/logo/汾西综合.png" tvg-name="汾西综合" x-latency-ms="1913" x-resolution="1920x1080" x-speed-kbps="1526",汾西综合
-https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
-#EXTINF:-1 group-title="卫视" tvg-id="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" tvg-name="河北卫视" x-latency-ms="190" x-speed-kbps="14488",河北卫视
-http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" tvg-name="河北卫视" x-latency-ms="144" x-speed-kbps="13689",河北卫视
+#EXTINF:-1 group-title="卫视" tvg-id="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" tvg-name="河北卫视" x-latency-ms="100" x-speed-kbps="21743",河北卫视
 http://173.208.212.130:8181/720p/hews.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" tvg-name="河北卫视" x-latency-ms="216" x-speed-kbps="13490",河北卫视
+#EXTINF:-1 group-title="卫视" tvg-id="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" tvg-name="河北卫视" x-latency-ms="149" x-speed-kbps="21097",河北卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd
-#EXTINF:-1 group-title="卫视" tvg-id="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" tvg-name="河南卫视" x-latency-ms="145" x-speed-kbps="12324",河南卫视
+#EXTINF:-1 group-title="卫视" tvg-id="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" tvg-name="河北卫视" x-latency-ms="140" x-speed-kbps="20949",河北卫视
+http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-id="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" tvg-name="河南卫视" x-latency-ms="99" x-speed-kbps="22388",河南卫视
 http://204.12.221.218:8181/3m1080p/haws.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" tvg-name="河南卫视" x-latency-ms="142" x-speed-kbps="12191",河南卫视
+#EXTINF:-1 group-title="卫视" tvg-id="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" tvg-name="河南卫视" x-latency-ms="108" x-speed-kbps="22026",河南卫视
 http://173.208.212.130:8181/720p/haws.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" tvg-name="河南卫视" x-latency-ms="357" x-speed-kbps="6517",河南卫视
+#EXTINF:-1 group-title="卫视" tvg-id="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" tvg-name="河南卫视" x-latency-ms="346" x-speed-kbps="4105",河南卫视
 http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-id="河南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南都市.png" tvg-name="河南都市" x-latency-ms="1645" x-speed-kbps="120711",河南都市
+#EXTINF:-1 group-title="地方台" tvg-id="河南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南都市.png" tvg-name="河南都市" x-latency-ms="1459" x-speed-kbps="29658",河南都市
 http://1.94.31.214/php/hntv.php?id=hnds
-#EXTINF:-1 group-title="地方台" tvg-id="洞头综合" tvg-logo="https://tb.zbds.top/logo/洞头综合.png" tvg-name="洞头综合" x-latency-ms="1239" x-speed-kbps="1045",洞头综合
-http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" tvg-name="洪金宝" x-latency-ms="142" x-speed-kbps="14312",洪金宝
+#EXTINF:-1 group-title="地方台" tvg-id="河源公共" tvg-logo="https://tb.zbds.top/logo/河源公共.png" tvg-name="河源公共" x-latency-ms="882" x-speed-kbps="1119",河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="泸县新闻综合" tvg-logo="https://tb.zbds.top/logo/泸县新闻综合.png" tvg-name="泸县新闻综合" x-latency-ms="5889" x-speed-kbps="2315",泸县新闻综合
+https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" tvg-name="洪金宝" x-latency-ms="102" x-speed-kbps="20839",洪金宝
 http://173.208.234.146/live/vlhjb.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="浙江休闲台" tvg-logo="https://tb.zbds.top/logo/浙江休闲台.png" tvg-name="浙江休闲台" x-latency-ms="590" x-speed-kbps="2633",浙江休闲台
+#EXTINF:-1 group-title="地方台" tvg-id="浙江休闲台" tvg-logo="https://tb.zbds.top/logo/浙江休闲台.png" tvg-name="浙江休闲台" x-latency-ms="1302" x-speed-kbps="2682",浙江休闲台
 http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" tvg-name="浙江卫视" x-latency-ms="142" x-speed-kbps="14546",浙江卫视
-http://107.150.60.122/live/zjwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" tvg-name="浙江卫视" x-latency-ms="144" x-speed-kbps="14372",浙江卫视
-http://204.12.221.218:8181/3m1080p/zjws.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" tvg-name="浙江卫视" x-latency-ms="218" x-speed-kbps="12777",浙江卫视
+#EXTINF:-1 group-title="卫视" tvg-id="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" tvg-name="浙江卫视" x-latency-ms="168" x-speed-kbps="22657",浙江卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
-#EXTINF:-1 group-title="地方台" tvg-id="浙江国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江国际.png" tvg-name="浙江国际" x-latency-ms="612" x-speed-kbps="2755",浙江国际
+#EXTINF:-1 group-title="卫视" tvg-id="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" tvg-name="浙江卫视" x-latency-ms="96" x-speed-kbps="21792",浙江卫视
+http://204.12.221.218:8181/3m1080p/zjws.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" tvg-name="浙江卫视" x-latency-ms="98" x-speed-kbps="21477",浙江卫视
+http://107.150.60.122/live/zjwshd.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="浙江国际" tvg-logo="https://tb.zbds.top/logo/浙江国际.png" tvg-name="浙江国际" x-latency-ms="674" x-speed-kbps="3102",浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
-#EXTINF:-1 group-title="地方台" tvg-id="浙江少儿" tvg-logo="https://tb.zbds.top/logo/浙江少儿.png" tvg-name="浙江少儿" x-latency-ms="585" x-speed-kbps="2788",浙江少儿
+#EXTINF:-1 group-title="地方台" tvg-id="浙江少儿" tvg-logo="https://tb.zbds.top/logo/浙江少儿.png" tvg-name="浙江少儿" x-latency-ms="564" x-speed-kbps="3112",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="浙江教科影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江教科影视.png" tvg-name="浙江教科影视" x-latency-ms="2827" x-speed-kbps="2681",浙江教科影视
+#EXTINF:-1 group-title="地方台" tvg-id="浙江教科影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江教科影视.png" tvg-name="浙江教科影视" x-latency-ms="2206" x-speed-kbps="2481",浙江教科影视
 http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="浙江教育" tvg-logo="https://tb.zbds.top/logo/浙江教育.png" tvg-name="浙江教育" x-latency-ms="926" x-speed-kbps="2927",浙江教育
+#EXTINF:-1 group-title="地方台" tvg-id="浙江教育" tvg-logo="https://tb.zbds.top/logo/浙江教育.png" tvg-name="浙江教育" x-latency-ms="551" x-speed-kbps="3187",浙江教育
 http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="浙江数码时代" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江数码时代.png" tvg-name="浙江数码时代" x-latency-ms="996" x-speed-kbps="2422",浙江数码时代
+#EXTINF:-1 group-title="地方台" tvg-id="浙江数码时代" tvg-logo="https://tb.zbds.top/logo/浙江数码时代.png" tvg-name="浙江数码时代" x-latency-ms="870" x-speed-kbps="2570",浙江数码时代
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n
-#EXTINF:-1 group-title="地方台" tvg-id="浙江新闻" tvg-logo="https://tb.zbds.top/logo/浙江新闻.png" tvg-name="浙江新闻" x-latency-ms="953" x-speed-kbps="2280",浙江新闻
+#EXTINF:-1 group-title="地方台" tvg-id="浙江新闻" tvg-logo="https://tb.zbds.top/logo/浙江新闻.png" tvg-name="浙江新闻" x-latency-ms="844" x-speed-kbps="2504",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="浙江留学" tvg-logo="https://tb.zbds.top/logo/浙江留学.png" tvg-name="浙江留学" x-latency-ms="868" x-speed-kbps="1001",浙江留学
+#EXTINF:-1 group-title="地方台" tvg-id="浙江留学" tvg-logo="https://tb.zbds.top/logo/浙江留学.png" tvg-name="浙江留学" x-latency-ms="800" x-speed-kbps="1513",浙江留学
 http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="浙江经济" tvg-logo="https://tb.zbds.top/logo/浙江经济.png" tvg-name="浙江经济" x-latency-ms="451" x-speed-kbps="2611",浙江经济
-http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="浙江经济生活" tvg-logo="https://tb.zbds.top/logo/浙江经济生活.png" tvg-name="浙江经济生活" x-latency-ms="541" x-speed-kbps="2865",浙江经济生活
-http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="浙江经视" tvg-logo="https://tb.zbds.top/logo/浙江经视.png" tvg-name="浙江经视" x-latency-ms="541" x-speed-kbps="2367",浙江经视
+#EXTINF:-1 group-title="地方台" tvg-id="浙江经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经济.png" tvg-name="浙江经济" x-latency-ms="647" x-speed-kbps="2681",浙江经济
+http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="浙江经视" tvg-logo="https://tb.zbds.top/logo/浙江经视.png" tvg-name="浙江经视" x-latency-ms="556" x-speed-kbps="2807",浙江经视
 http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="浙江遂昌" tvg-logo="https://tb.zbds.top/logo/浙江遂昌.png" tvg-name="浙江遂昌" x-latency-ms="1612" x-speed-kbps="1777",浙江遂昌
-http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/浙江钱江频道.png" tvg-name="浙江钱江频道" x-latency-ms="528" x-speed-kbps="2656",浙江钱江频道
+#EXTINF:-1 group-title="地方台" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/浙江钱江频道.png" tvg-name="浙江钱江频道" x-latency-ms="774" x-speed-kbps="3064",浙江钱江频道
 http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="浙江钱江" tvg-logo="https://tb.zbds.top/logo/浙江钱江.png" tvg-name="浙江钱江" x-latency-ms="1514" x-speed-kbps="2418",浙江钱江
-http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="浙江钱江都市" tvg-logo="https://tb.zbds.top/logo/浙江钱江都市.png" tvg-name="浙江钱江都市" x-latency-ms="750" x-speed-kbps="2393",浙江钱江都市
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="海南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南卫视.png" tvg-name="海南卫视" x-latency-ms="144" x-speed-kbps="14424",海南卫视
+#EXTINF:-1 group-title="地方台" tvg-id="浙江钱江都市" tvg-logo="https://tb.zbds.top/logo/浙江钱江都市.png" tvg-name="浙江钱江都市" x-latency-ms="887" x-speed-kbps="5211",浙江钱江都市
+http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="海南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南卫视.png" tvg-name="海南卫视" x-latency-ms="104" x-speed-kbps="20654",海南卫视
 http://204.12.221.218:8181/3m1080p/lyws.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="海宁新闻综合" tvg-logo="https://tb.zbds.top/logo/海宁新闻综合.png" tvg-name="海宁新闻综合" x-latency-ms="2435" x-speed-kbps="3428",海宁新闻综合
+#EXTINF:-1 group-title="地方台" tvg-id="海宁新闻综合" tvg-logo="https://tb.zbds.top/logo/海宁新闻综合.png" tvg-name="海宁新闻综合" x-latency-ms="1256" x-speed-kbps="4809",海宁新闻综合
 https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/海峡卫视.png" tvg-name="海峡卫视" x-latency-ms="122" x-speed-kbps="8734",海峡卫视
-http://38.64.72.148:80/hls/modn/list/4009/chunklist1.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" tvg-name="深圳卫视" x-latency-ms="143" x-speed-kbps="14619",深圳卫视
-http://107.150.60.122/live/szwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" tvg-name="深圳卫视" x-latency-ms="143" x-speed-kbps="14615",深圳卫视
-http://198.204.228.26/live/szwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" tvg-name="深圳卫视" x-latency-ms="148" x-speed-kbps="14497",深圳卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/海峡卫视.png" tvg-name="海峡卫视" x-latency-ms="81" x-speed-kbps="12785",海峡卫视
+http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" tvg-name="深圳卫视" x-latency-ms="103" x-speed-kbps="20958",深圳卫视
 http://204.12.221.218:8181/3m1080p/szws.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="清河经济综艺" tvg-logo="https://tb.zbds.top/logo/清河经济综艺.png" tvg-name="清河经济综艺" x-latency-ms="871" x-speed-kbps="2380",清河经济综艺
+#EXTINF:-1 group-title="卫视" tvg-id="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" tvg-name="深圳卫视" x-latency-ms="98" x-speed-kbps="20823",深圳卫视
+http://198.204.228.26/live/szwshd.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" tvg-name="深圳卫视" x-latency-ms="101" x-speed-kbps="20094",深圳卫视
+http://107.150.60.122/live/szwshd.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="清河经济综艺" tvg-logo="https://tb.zbds.top/logo/清河经济综艺.png" tvg-name="清河经济综艺" x-latency-ms="685" x-speed-kbps="2480",清河经济综艺
 https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" tvg-name="湖北卫视" x-latency-ms="232" x-speed-kbps="14709",湖北卫视
-http://107.150.60.122/live/hbwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" tvg-name="湖北卫视" x-latency-ms="189" x-speed-kbps="14678",湖北卫视
-http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" tvg-name="湖北卫视" x-latency-ms="142" x-speed-kbps="14542",湖北卫视
+#EXTINF:-1 group-title="卫视" tvg-id="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" tvg-name="湖北卫视" x-latency-ms="91" x-speed-kbps="22079",湖北卫视
 http://198.204.228.26/live/hbwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" tvg-name="湖南卫视" x-latency-ms="145" x-speed-kbps="14642",湖南卫视
-http://107.150.60.122/live/hnwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" tvg-name="湖南卫视" x-latency-ms="222" x-speed-kbps="14585",湖南卫视
+#EXTINF:-1 group-title="卫视" tvg-id="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" tvg-name="湖北卫视" x-latency-ms="140" x-speed-kbps="21541",湖北卫视
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-id="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" tvg-name="湖北卫视" x-latency-ms="98" x-speed-kbps="20280",湖北卫视
+http://107.150.60.122/live/hbwshd.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" tvg-name="湖南卫视" x-latency-ms="161" x-speed-kbps="23614",湖南卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
-#EXTINF:-1 group-title="卫视" tvg-id="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" tvg-name="湖南卫视" x-latency-ms="145" x-speed-kbps="13956",湖南卫视
+#EXTINF:-1 group-title="卫视" tvg-id="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" tvg-name="湖南卫视" x-latency-ms="103" x-speed-kbps="22262",湖南卫视
+http://107.150.60.122/live/hnwshd.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" tvg-name="湖南卫视" x-latency-ms="95" x-speed-kbps="21904",湖南卫视
 http://204.12.221.218:8181/3m1080p/hnws.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="滦平新闻" tvg-logo="https://tb.zbds.top/logo/滦平新闻.png" tvg-name="滦平新闻" x-latency-ms="665" x-speed-kbps="1766",滦平新闻
+#EXTINF:-1 group-title="地方台" tvg-id="滦平新闻" tvg-logo="https://tb.zbds.top/logo/滦平新闻.png" tvg-name="滦平新闻" x-latency-ms="1173" x-speed-kbps="1251",滦平新闻
 http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="熊猫直播" tvg-logo="https://tb.zbds.top/logo/熊猫直播.png" tvg-name="熊猫直播" x-latency-ms="1174" x-resolution="1280x720" x-speed-kbps="1572",熊猫直播
+#EXTINF:-1 group-title="地方台" tvg-id="熊猫直播" tvg-logo="https://tb.zbds.top/logo/熊猫直播.png" tvg-name="熊猫直播" x-latency-ms="1190" x-resolution="1280x720" x-speed-kbps="2416",熊猫直播
 https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/爱情公寓.png" tvg-name="爱情公寓" x-latency-ms="141" x-speed-kbps="14750",爱情公寓
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/爱情公寓.png" tvg-name="爱情公寓" x-latency-ms="94" x-speed-kbps="20900",爱情公寓
 http://173.208.234.146/live/vlaqgy.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/父母爱情.png" tvg-name="父母爱情" x-latency-ms="144" x-speed-kbps="14661",父母爱情
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/父母爱情.png" tvg-name="父母爱情" x-latency-ms="100" x-speed-kbps="22343",父母爱情
 http://173.208.234.146/live/lbfumuaiqing.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="玛纳斯" tvg-logo="https://tb.zbds.top/logo/玛纳斯.png" tvg-name="玛纳斯" x-latency-ms="606" x-speed-kbps="1017",玛纳斯
+#EXTINF:-1 group-title="地方台" tvg-id="玛纳斯" tvg-logo="https://tb.zbds.top/logo/玛纳斯.png" tvg-name="玛纳斯" x-latency-ms="1588" x-speed-kbps="1095",玛纳斯
 http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
-#EXTINF:-1 group-title="地方台" tvg-id="玛纳斯综合" tvg-logo="https://tb.zbds.top/logo/玛纳斯综合.png" tvg-name="玛纳斯综合" x-latency-ms="638" x-speed-kbps="1003",玛纳斯综合
+#EXTINF:-1 group-title="地方台" tvg-id="玛纳斯综合" tvg-logo="https://tb.zbds.top/logo/玛纳斯综合.png" tvg-name="玛纳斯综合" x-latency-ms="598" x-speed-kbps="1239",玛纳斯综合
 http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
-#EXTINF:-1 group-title="地方台" tvg-id="珲春新闻" tvg-logo="https://tb.zbds.top/logo/珲春新闻.png" tvg-name="珲春新闻" x-latency-ms="1201" x-speed-kbps="1138",珲春新闻
+#EXTINF:-1 group-title="地方台" tvg-id="珲春新闻" tvg-logo="https://tb.zbds.top/logo/珲春新闻.png" tvg-name="珲春新闻" x-latency-ms="639" x-speed-kbps="1836",珲春新闻
 http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
-#EXTINF:-1 group-title="地方台" tvg-id="璧山综合" tvg-logo="https://tb.zbds.top/logo/璧山综合.png" tvg-name="璧山综合" x-latency-ms="4707" x-speed-kbps="1388",璧山综合
+#EXTINF:-1 group-title="地方台" tvg-id="璧山综合" tvg-logo="https://tb.zbds.top/logo/璧山综合.png" tvg-name="璧山综合" x-latency-ms="1499" x-speed-kbps="1327",璧山综合
 http://222.179.42.129:8181/hls1.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="甘肃卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃卫视.png" tvg-name="甘肃卫视" x-latency-ms="217" x-speed-kbps="14595",甘肃卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
-#EXTINF:-1 group-title="卫视" tvg-id="甘肃卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃卫视.png" tvg-name="甘肃卫视" x-latency-ms="192" x-speed-kbps="14507",甘肃卫视
+#EXTINF:-1 group-title="卫视" tvg-id="甘肃卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃卫视.png" tvg-name="甘肃卫视" x-latency-ms="139" x-speed-kbps="23021",甘肃卫视
 http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-id="甘肃经济" tvg-logo="https://tb.zbds.top/logo/甘肃经济.png" tvg-name="甘肃经济" x-latency-ms="1026" x-speed-kbps="21331",甘肃经济
+#EXTINF:-1 group-title="卫视" tvg-id="甘肃卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃卫视.png" tvg-name="甘肃卫视" x-latency-ms="149" x-speed-kbps="22807",甘肃卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
+#EXTINF:-1 group-title="地方台" tvg-id="甘肃经济" tvg-logo="https://tb.zbds.top/logo/甘肃经济.png" tvg-name="甘肃经济" x-latency-ms="991" x-speed-kbps="2497",甘肃经济
 https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="甘肃都市" tvg-logo="https://tb.zbds.top/logo/甘肃都市.png" tvg-name="甘肃都市" x-latency-ms="610" x-speed-kbps="1799",甘肃都市
+#EXTINF:-1 group-title="地方台" tvg-id="甘肃都市" tvg-logo="https://tb.zbds.top/logo/甘肃都市.png" tvg-name="甘肃都市" x-latency-ms="804" x-speed-kbps="2511",甘肃都市
 https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/电视指南.png" tvg-name="电视指南" x-latency-ms="143" x-speed-kbps="14425",电视指南
-http://107.150.60.122/live/dszn.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/电视指南.png" tvg-name="电视指南" x-latency-ms="215" x-speed-kbps="14355",电视指南
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/电视指南.png" tvg-name="电视指南" x-latency-ms="161" x-speed-kbps="23220",电视指南
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/电视指南.png" tvg-name="电视指南" x-latency-ms="199" x-speed-kbps="5488",电视指南
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/电视指南.png" tvg-name="电视指南" x-latency-ms="102" x-speed-kbps="20617",电视指南
+http://107.150.60.122/live/dszn.m3u8
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/电视指南.png" tvg-name="电视指南" x-latency-ms="149" x-speed-kbps="2508",电视指南
 http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-id="白山公共" tvg-logo="https://tb.zbds.top/logo/白山公共.png" tvg-name="白山公共" x-latency-ms="1063" x-speed-kbps="1040",白山公共
+#EXTINF:-1 group-title="地方台" tvg-id="BaichengTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" x-latency-ms="820" x-speed-kbps="1076",白城新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="白山公共" tvg-logo="https://tb.zbds.top/logo/白山公共.png" tvg-name="白山公共" x-latency-ms="830" x-speed-kbps="1894",白山公共
 http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
-#EXTINF:-1 group-title="地方台" tvg-id="祁门综合" tvg-logo="https://tb.zbds.top/logo/祁门综合.png" tvg-name="祁门综合" x-latency-ms="1513" x-speed-kbps="112782",祁门综合
+#EXTINF:-1 group-title="地方台" tvg-id="白银综合" tvg-logo="https://tb.zbds.top/logo/白银综合.png" tvg-name="白银综合" x-latency-ms="823" x-speed-kbps="2485",白银综合
+http://play.kankanlive.com/live/1720408089419110.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="磐石" tvg-logo="https://tb.zbds.top/logo/磐石.png" tvg-name="磐石" x-latency-ms="797" x-speed-kbps="1187",磐石
+http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="地方台" tvg-id="祁门综合" tvg-logo="https://tb.zbds.top/logo/祁门综合.png" tvg-name="祁门综合" x-latency-ms="1053" x-speed-kbps="26741",祁门综合
 http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
-#EXTINF:-1 group-title="地方台" tvg-id="福州少儿" tvg-logo="https://tb.zbds.top/logo/福州少儿.png" tvg-name="福州少儿" x-latency-ms="1171" x-speed-kbps="1801",福州少儿
+#EXTINF:-1 group-title="地方台" tvg-id="福州少儿" tvg-logo="https://tb.zbds.top/logo/福州少儿.png" tvg-name="福州少儿" x-latency-ms="1102" x-speed-kbps="2030",福州少儿
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="福建新闻" tvg-logo="https://tb.zbds.top/logo/福建新闻.png" tvg-name="福建新闻" x-latency-ms="1026" x-speed-kbps="40735",福建新闻
+#EXTINF:-1 group-title="地方台" tvg-id="福建新闻" tvg-logo="https://tb.zbds.top/logo/福建新闻.png" tvg-name="福建新闻" x-latency-ms="1462" x-speed-kbps="9002",福建新闻
 http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="福建经济" tvg-logo="https://tb.zbds.top/logo/福建经济.png" tvg-name="福建经济" x-latency-ms="1518" x-speed-kbps="41379",福建经济
+#EXTINF:-1 group-title="地方台" tvg-id="福建经济" tvg-logo="https://tb.zbds.top/logo/福建经济.png" tvg-name="福建经济" x-latency-ms="1360" x-speed-kbps="9306",福建经济
 http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" tvg-name="第一剧场" x-latency-ms="215" x-speed-kbps="14715",第一剧场
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
-#EXTINF:-1 group-title="地方台" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" tvg-name="第一剧场" x-latency-ms="143" x-speed-kbps="14510",第一剧场
+#EXTINF:-1 group-title="地方台" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" tvg-name="第一剧场" x-latency-ms="99" x-speed-kbps="21806",第一剧场
 http://107.150.60.122/live/dyjc.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" tvg-name="第一剧场" x-latency-ms="541" x-speed-kbps="12108",第一剧场
+#EXTINF:-1 group-title="地方台" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" tvg-name="第一剧场" x-latency-ms="152" x-speed-kbps="20970",第一剧场
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
+#EXTINF:-1 group-title="地方台" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" tvg-name="第一剧场" x-latency-ms="526" x-speed-kbps="17461",第一剧场
 http://207.56.13.146:81/cdnlive/dyjc.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来电影台.png" tvg-name="纬来电影台" x-latency-ms="359" x-speed-kbps="1654",纬来电影台
-http://free.cnlive.club/channel/581b458b.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来精彩台.png" tvg-name="纬来精彩台" x-latency-ms="134" x-resolution="640x360" x-speed-kbps="1869",纬来精彩台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来精彩台.png" tvg-name="纬来精彩台" x-latency-ms="171" x-resolution="640x360" x-speed-kbps="2139",纬来精彩台
 https://t.freetv.fun/live/wei-lai-jing-cai.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来精彩台.png" tvg-name="纬来精彩台" x-latency-ms="398" x-speed-kbps="1769",纬来精彩台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来精彩台.png" tvg-name="纬来精彩台" x-latency-ms="342" x-speed-kbps="2062",纬来精彩台
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="绍兴公共" tvg-logo="https://tb.zbds.top/logo/绍兴公共.png" tvg-name="绍兴公共" x-latency-ms="3137" x-speed-kbps="1168",绍兴公共
+#EXTINF:-1 group-title="地方台" tvg-id="绍兴公共" tvg-logo="https://tb.zbds.top/logo/绍兴公共.png" tvg-name="绍兴公共" x-latency-ms="501" x-speed-kbps="1474",绍兴公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/美亚电影.png" tvg-name="美亚电影" x-latency-ms="144" x-speed-kbps="14659",美亚电影
-http://173.208.234.146/live/mymovie.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/美亚电影.png" tvg-name="美亚电影" x-latency-ms="135" x-resolution="640x360" x-speed-kbps="14588",美亚电影
-https://t.freetv.fun/live/mei-ya-dian-ying-2.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/老故事.png" tvg-name="老故事" x-latency-ms="221" x-speed-kbps="14698",老故事
+#EXTINF:-1 group-title="地方台" tvg-id="绍兴电视台公共" tvg-logo="https://tb.zbds.top/logo/绍兴电视台公共.png" tvg-name="绍兴电视台公共" x-latency-ms="527" x-speed-kbps="1493",绍兴电视台公共
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/老故事.png" tvg-name="老故事" x-latency-ms="147" x-speed-kbps="23365",老故事
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/老故事.png" tvg-name="老故事" x-latency-ms="144" x-speed-kbps="14673",老故事
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/老故事.png" tvg-name="老故事" x-latency-ms="91" x-speed-kbps="22192",老故事
 http://204.12.221.218:8181/3m1080p/lgs.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/老故事.png" tvg-name="老故事" x-latency-ms="190" x-speed-kbps="14638",老故事
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/老故事.png" tvg-name="老故事" x-latency-ms="131" x-speed-kbps="20772",老故事
 http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-id="舒兰新闻综合" tvg-logo="https://tb.zbds.top/logo/舒兰新闻综合.png" tvg-name="舒兰新闻综合" x-latency-ms="1739" x-speed-kbps="1415",舒兰新闻综合
+#EXTINF:-1 group-title="地方台" tvg-id="舒兰新闻" tvg-logo="https://tb.zbds.top/logo/舒兰新闻.png" tvg-name="舒兰新闻" x-latency-ms="610" x-speed-kbps="1305",舒兰新闻
+http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="地方台" tvg-id="舒兰新闻综合" tvg-logo="https://tb.zbds.top/logo/舒兰新闻综合.png" tvg-name="舒兰新闻综合" x-latency-ms="557" x-speed-kbps="2171",舒兰新闻综合
 http://stream8.jlntv.cn/shulan/sd/live.m3u8?_upt=332db6421699196585
-#EXTINF:-1 group-title="地方台" tvg-id="苍南新闻综合" tvg-logo="https://tb.zbds.top/logo/苍南新闻综合.png" tvg-name="苍南新闻综合" x-latency-ms="815" x-speed-kbps="1116",苍南新闻综合
-https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="苏州文化生活" tvg-logo="https://tb.zbds.top/logo/苏州文化生活.png" tvg-name="苏州文化生活" x-latency-ms="1356" x-speed-kbps="3391",苏州文化生活
+#EXTINF:-1 group-title="地方台" tvg-id="苏州文化生活" tvg-logo="https://tb.zbds.top/logo/苏州文化生活.png" tvg-name="苏州文化生活" x-latency-ms="1424" x-speed-kbps="3262",苏州文化生活
 https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="苏州新闻综合" tvg-logo="https://tb.zbds.top/logo/苏州新闻综合.png" tvg-name="苏州新闻综合" x-latency-ms="903" x-speed-kbps="4287",苏州新闻综合
+#EXTINF:-1 group-title="地方台" tvg-id="苏州新闻综合" tvg-logo="https://tb.zbds.top/logo/苏州新闻综合.png" tvg-name="苏州新闻综合" x-latency-ms="1497" x-speed-kbps="3340",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="苏州生活资讯" tvg-logo="https://tb.zbds.top/logo/苏州生活资讯.png" tvg-name="苏州生活资讯" x-latency-ms="1334" x-speed-kbps="3236",苏州生活资讯
+#EXTINF:-1 group-title="地方台" tvg-id="苏州生活资讯" tvg-logo="https://tb.zbds.top/logo/苏州生活资讯.png" tvg-name="苏州生活资讯" x-latency-ms="1513" x-speed-kbps="1878",苏州生活资讯
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="苏州社会经济" tvg-logo="https://tb.zbds.top/logo/苏州社会经济.png" tvg-name="苏州社会经济" x-latency-ms="1277" x-speed-kbps="3795",苏州社会经济
+#EXTINF:-1 group-title="地方台" tvg-id="苏州社会经济" tvg-logo="https://tb.zbds.top/logo/苏州社会经济.png" tvg-name="苏州社会经济" x-latency-ms="961" x-speed-kbps="5711",苏州社会经济
 https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="荆门新闻综合" tvg-logo="https://tb.zbds.top/logo/荆门新闻综合.png" tvg-name="荆门新闻综合" x-latency-ms="1084" x-speed-kbps="1526",荆门新闻综合
+#EXTINF:-1 group-title="地方台" tvg-id="荆门新闻综合" tvg-logo="https://tb.zbds.top/logo/荆门新闻综合.png" tvg-name="荆门新闻综合" x-latency-ms="979" x-speed-kbps="2088",荆门新闻综合
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="荥经综合" tvg-logo="https://tb.zbds.top/logo/荥经综合.png" tvg-name="荥经综合" x-latency-ms="3864" x-speed-kbps="1914",荥经综合
-https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="萧山生活" tvg-logo="https://tb.zbds.top/logo/萧山生活.png" tvg-name="萧山生活" x-latency-ms="8396" x-speed-kbps="1217",萧山生活
-https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="萧山综合" tvg-logo="https://tb.zbds.top/logo/萧山综合.png" tvg-name="萧山综合" x-latency-ms="5533" x-speed-kbps="1516",萧山综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="衢江新闻综合" tvg-logo="https://tb.zbds.top/logo/衢江新闻综合.png" tvg-name="衢江新闻综合" x-latency-ms="6446" x-speed-kbps="1833",衢江新闻综合
-http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="地方台" tvg-id="西峰综合" tvg-logo="https://tb.zbds.top/logo/西峰综合.png" tvg-name="西峰综合" x-latency-ms="1019" x-speed-kbps="1709",西峰综合
+#EXTINF:-1 group-title="地方台" tvg-id="西宁新闻综合" tvg-logo="https://tb.zbds.top/logo/西宁新闻综合.png" tvg-name="西宁新闻综合" x-latency-ms="2410" x-speed-kbps="1088",西宁新闻综合
+https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
+#EXTINF:-1 group-title="地方台" tvg-id="西峰综合" tvg-logo="https://tb.zbds.top/logo/西峰综合.png" tvg-name="西峰综合" x-latency-ms="885" x-speed-kbps="2309",西峰综合
 https://play.kankanlive.com/live/1683944827526991.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="西藏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西藏卫视.png" tvg-name="西藏卫视" x-latency-ms="218" x-speed-kbps="14628",西藏卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
-#EXTINF:-1 group-title="卫视" tvg-id="西藏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西藏卫视.png" tvg-name="西藏卫视" x-latency-ms="142" x-speed-kbps="14588",西藏卫视
+#EXTINF:-1 group-title="卫视" tvg-id="西藏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西藏卫视.png" tvg-name="西藏卫视" x-latency-ms="95" x-speed-kbps="22164",西藏卫视
 http://107.150.60.122/live/xzws.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/台视.png" tvg-name="台视" x-latency-ms="142" x-resolution="640x360" x-speed-kbps="14605",台视
-https://t.freetv.fun/live/tai-shi-2.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/台视.png" tvg-name="台视" x-latency-ms="146" x-speed-kbps="14576",台视
+#EXTINF:-1 group-title="卫视" tvg-id="西藏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西藏卫视.png" tvg-name="西藏卫视" x-latency-ms="149" x-speed-kbps="21262",西藏卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/台视.png" tvg-name="台视" x-latency-ms="96" x-speed-kbps="22253",台视
 http://74.91.26.218:82/live/ttv.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/台视新闻台.png" tvg-name="台视新闻台" x-latency-ms="27" x-resolution="640x360" x-speed-kbps="8786",台视新闻台
-https://t.freetv.fun/live/tai-shi-xin-wen-2.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/台视财经台.png" tvg-name="台视财经台" x-latency-ms="131" x-resolution="640x360" x-speed-kbps="14419",台视财经台
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/台视.png" tvg-name="台视" x-latency-ms="178" x-resolution="640x360" x-speed-kbps="19976",台视
+https://t.freetv.fun/live/tai-shi-2.m3u8
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/台视新闻台.png" tvg-name="台视新闻台" x-latency-ms="173" x-resolution="640x360" x-speed-kbps="11676",台视新闻台
+https://t.freetv.fun/live/tai-shi-xin-wen-3.m3u8
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/台视财经台.png" tvg-name="台视财经台" x-latency-ms="198" x-resolution="640x360" x-speed-kbps="23305",台视财经台
 https://t.freetv.fun/live/tai-shi-cai-jing-1.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="诸暨新闻综合" tvg-logo="https://tb.zbds.top/logo/诸暨新闻综合.png" tvg-name="诸暨新闻综合" x-latency-ms="6035" x-speed-kbps="1708",诸暨新闻综合
-https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="象山新闻综合" tvg-logo="https://tb.zbds.top/logo/象山新闻综合.png" tvg-name="象山新闻综合" x-latency-ms="6188" x-speed-kbps="1475",象山新闻综合
-http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="象山综合" tvg-logo="https://tb.zbds.top/logo/象山综合.png" tvg-name="象山综合" x-latency-ms="5321" x-speed-kbps="2247",象山综合
-http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="卫视" tvg-id="贵州卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/贵州卫视.png" tvg-name="贵州卫视" x-latency-ms="216" x-speed-kbps="13863",贵州卫视
+#EXTINF:-1 group-title="卫视" tvg-id="贵州卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/贵州卫视.png" tvg-name="贵州卫视" x-latency-ms="472" x-speed-kbps="14318",贵州卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd
-#EXTINF:-1 group-title="卫视" tvg-id="贵州卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/贵州卫视.png" tvg-name="贵州卫视" x-latency-ms="189" x-speed-kbps="13622",贵州卫视
+#EXTINF:-1 group-title="卫视" tvg-id="贵州卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/贵州卫视.png" tvg-name="贵州卫视" x-latency-ms="383" x-speed-kbps="12367",贵州卫视
 http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="贵州卫视" tvg-logo="https://tb.zbds.top/logo/贵州卫视.png" tvg-name="贵州卫视" x-latency-ms="519" x-speed-kbps="1276",贵州卫视
-http://112.27.235.94:8000/hls/46/index.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="辉南新闻" tvg-logo="https://tb.zbds.top/logo/辉南新闻.png" tvg-name="辉南新闻" x-latency-ms="1171" x-speed-kbps="2009",辉南新闻
+#EXTINF:-1 group-title="地方台" tvg-id="辉南新闻" tvg-logo="https://tb.zbds.top/logo/辉南新闻.png" tvg-name="辉南新闻" x-latency-ms="944" x-speed-kbps="2192",辉南新闻
 http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
-#EXTINF:-1 group-title="地方台" tvg-id="辉南新闻综合" tvg-logo="https://tb.zbds.top/logo/辉南新闻综合.png" tvg-name="辉南新闻综合" x-latency-ms="1083" x-speed-kbps="1772",辉南新闻综合
+#EXTINF:-1 group-title="地方台" tvg-id="辉南新闻综合" tvg-logo="https://tb.zbds.top/logo/辉南新闻综合.png" tvg-name="辉南新闻综合" x-latency-ms="822" x-speed-kbps="2001",辉南新闻综合
 http://stream5.jlntv.cn/hn/sd/live.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" tvg-name="辽宁卫视" x-latency-ms="145" x-speed-kbps="14576",辽宁卫视
-http://107.150.60.122/live/lnwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" tvg-name="辽宁卫视" x-latency-ms="143" x-speed-kbps="14450",辽宁卫视
-http://198.204.228.26/live/lnwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" tvg-name="辽宁卫视" x-latency-ms="189" x-speed-kbps="14401",辽宁卫视
+#EXTINF:-1 group-title="卫视" tvg-id="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" tvg-name="辽宁卫视" x-latency-ms="147" x-speed-kbps="23250",辽宁卫视
 http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-id="通海电视台" tvg-logo="https://tb.zbds.top/logo/通海电视台.png" tvg-name="通海电视台" x-latency-ms="1506" x-speed-kbps="1621",通海电视台
+#EXTINF:-1 group-title="卫视" tvg-id="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" tvg-name="辽宁卫视" x-latency-ms="106" x-speed-kbps="21873",辽宁卫视
+http://107.150.60.122/live/lnwshd.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" tvg-name="辽宁卫视" x-latency-ms="101" x-speed-kbps="21729",辽宁卫视
+http://198.204.228.26/live/lnwshd.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="通海电视台" tvg-logo="https://tb.zbds.top/logo/通海电视台.png" tvg-name="通海电视台" x-latency-ms="1326" x-speed-kbps="1851",通海电视台
 https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="遂昌综合" tvg-logo="https://tb.zbds.top/logo/遂昌综合.png" tvg-name="遂昌综合" x-latency-ms="3556" x-speed-kbps="1621",遂昌综合
-http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="地方台" tvg-id="邢台生活" tvg-logo="https://tb.zbds.top/logo/邢台生活.png" tvg-name="邢台生活" x-latency-ms="793" x-speed-kbps="2246",邢台生活
+#EXTINF:-1 group-title="地方台" tvg-id="邢台生活" tvg-logo="https://tb.zbds.top/logo/邢台生活.png" tvg-name="邢台生活" x-latency-ms="704" x-speed-kbps="2375",邢台生活
 https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="邢台综合" tvg-logo="https://tb.zbds.top/logo/邢台综合.png" tvg-name="邢台综合" x-latency-ms="844" x-speed-kbps="1724",邢台综合
+#EXTINF:-1 group-title="地方台" tvg-id="邢台综合" tvg-logo="https://tb.zbds.top/logo/邢台综合.png" tvg-name="邢台综合" x-latency-ms="835" x-speed-kbps="2376",邢台综合
 https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="邯郸公共频道" tvg-logo="https://tb.zbds.top/logo/邯郸公共频道.png" tvg-name="邯郸公共频道" x-latency-ms="819" x-speed-kbps="2207",邯郸公共频道
+#EXTINF:-1 group-title="地方台" tvg-id="邯郸公共频道" tvg-logo="https://tb.zbds.top/logo/邯郸公共频道.png" tvg-name="邯郸公共频道" x-latency-ms="719" x-speed-kbps="2444",邯郸公共频道
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="邯郸新闻" tvg-logo="https://tb.zbds.top/logo/邯郸新闻.png" tvg-name="邯郸新闻" x-latency-ms="813" x-speed-kbps="2244",邯郸新闻
+#EXTINF:-1 group-title="地方台" tvg-id="邯郸新闻" tvg-logo="https://tb.zbds.top/logo/邯郸新闻.png" tvg-name="邯郸新闻" x-latency-ms="691" x-speed-kbps="2069",邯郸新闻
 https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="邯郸科技教育" tvg-logo="https://tb.zbds.top/logo/邯郸科技教育.png" tvg-name="邯郸科技教育" x-latency-ms="800" x-speed-kbps="2262",邯郸科技教育
+#EXTINF:-1 group-title="地方台" tvg-id="邯郸科技教育" tvg-logo="https://tb.zbds.top/logo/邯郸科技教育.png" tvg-name="邯郸科技教育" x-latency-ms="719" x-speed-kbps="2561",邯郸科技教育
 https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="都市剧场" tvg-logo="https://tb.zbds.top/logo/都市剧场.png" tvg-name="都市剧场" x-latency-ms="1484" x-speed-kbps="2079",都市剧场
+#EXTINF:-1 group-title="地方台" tvg-id="都市剧场" tvg-logo="https://tb.zbds.top/logo/都市剧场.png" tvg-name="都市剧场" x-latency-ms="1787" x-speed-kbps="1682",都市剧场
 https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" tvg-name="重庆卫视" x-latency-ms="142" x-speed-kbps="14453",重庆卫视
-http://204.12.221.218:8181/3m1080p/cqws.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" tvg-name="重庆卫视" x-latency-ms="190" x-speed-kbps="14385",重庆卫视
-http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" tvg-name="重庆卫视" x-latency-ms="218" x-speed-kbps="14381",重庆卫视
+#EXTINF:-1 group-title="卫视" tvg-id="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" tvg-name="重庆卫视" x-latency-ms="152" x-speed-kbps="21082",重庆卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
-#EXTINF:-1 group-title="地方台" tvg-id="金川乡村" tvg-logo="https://tb.zbds.top/logo/金川乡村.png" tvg-name="金川乡村" x-latency-ms="727" x-speed-kbps="1758",金川乡村
+#EXTINF:-1 group-title="卫视" tvg-id="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" tvg-name="重庆卫视" x-latency-ms="138" x-speed-kbps="20923",重庆卫视
+http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-id="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" tvg-name="重庆卫视" x-latency-ms="112" x-speed-kbps="20770",重庆卫视
+http://204.12.221.218:8181/3m1080p/cqws.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="金川乡村" tvg-logo="https://tb.zbds.top/logo/金川乡村.png" tvg-name="金川乡村" x-latency-ms="729" x-speed-kbps="1514",金川乡村
 http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
-#EXTINF:-1 group-title="地方台" tvg-id="金川新闻综合" tvg-logo="https://tb.zbds.top/logo/金川新闻综合.png" tvg-name="金川新闻综合" x-latency-ms="609" x-speed-kbps="1810",金川新闻综合
+#EXTINF:-1 group-title="地方台" tvg-id="金川新闻综合" tvg-logo="https://tb.zbds.top/logo/金川新闻综合.png" tvg-name="金川新闻综合" x-latency-ms="1360" x-speed-kbps="1929",金川新闻综合
 http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
-#EXTINF:-1 group-title="地方台" tvg-id="镇江新闻综合" tvg-logo="https://tb.zbds.top/logo/镇江新闻综合.png" tvg-name="镇江新闻综合" x-latency-ms="1325" x-speed-kbps="2398",镇江新闻综合
+#EXTINF:-1 group-title="地方台" tvg-id="铜梁综合" tvg-logo="https://tb.zbds.top/logo/铜梁综合.png" tvg-name="铜梁综合" x-latency-ms="773" x-speed-kbps="1469",铜梁综合
+http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+#EXTINF:-1 group-title="地方台" tvg-id="镇江二套社会民生" tvg-logo="https://tb.zbds.top/logo/镇江二套社会民生.png" tvg-name="镇江二套社会民生" x-latency-ms="1145" x-speed-kbps="1964",镇江二套社会民生
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="镇江新闻综合" tvg-logo="https://tb.zbds.top/logo/镇江新闻综合.png" tvg-name="镇江新闻综合" x-latency-ms="2142" x-speed-kbps="2129",镇江新闻综合
 http://cm-wshls.homecdn.com/live/2aa50.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="长子综合" tvg-logo="https://tb.zbds.top/logo/长子综合.png" tvg-name="长子综合" x-latency-ms="2628" x-speed-kbps="1472",长子综合
+#EXTINF:-1 group-title="地方台" tvg-id="长子综合" tvg-logo="https://tb.zbds.top/logo/长子综合.png" tvg-name="长子综合" x-latency-ms="1044" x-speed-kbps="1130",长子综合
 https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
-#EXTINF:-1 group-title="地方台" tvg-id="长白朝语" tvg-logo="https://tb.zbds.top/logo/长白朝语.png" tvg-name="长白朝语" x-latency-ms="1270" x-speed-kbps="1325",长白朝语
+#EXTINF:-1 group-title="地方台" tvg-id="长白朝语" tvg-logo="https://tb.zbds.top/logo/长白朝语.png" tvg-name="长白朝语" x-latency-ms="1453" x-speed-kbps="1479",长白朝语
 http://hplayer1.juyun.tv:80/camera/11344136.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="陕西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png" tvg-name="陕西卫视" x-latency-ms="189" x-speed-kbps="14673",陕西卫视
+#EXTINF:-1 group-title="卫视" tvg-id="陕西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png" tvg-name="陕西卫视" x-latency-ms="143" x-speed-kbps="22979",陕西卫视
 http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="陕西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png" tvg-name="陕西卫视" x-latency-ms="143" x-speed-kbps="14661",陕西卫视
+#EXTINF:-1 group-title="卫视" tvg-id="陕西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png" tvg-name="陕西卫视" x-latency-ms="91" x-speed-kbps="21684",陕西卫视
 http://192.151.150.154/live/snwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="陕西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png" tvg-name="陕西卫视" x-latency-ms="143" x-speed-kbps="14645",陕西卫视
+#EXTINF:-1 group-title="卫视" tvg-id="陕西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png" tvg-name="陕西卫视" x-latency-ms="109" x-speed-kbps="20207",陕西卫视
 http://198.204.228.26/live/snwshd.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="雅安新闻综合" tvg-logo="https://tb.zbds.top/logo/雅安新闻综合.png" tvg-name="雅安新闻综合" x-latency-ms="6687" x-speed-kbps="1031",雅安新闻综合
-https://play.yunxya.com/channellive/xinwen.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/雍正王朝.png" tvg-name="雍正王朝" x-latency-ms="142" x-speed-kbps="14749",雍正王朝
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/雍正王朝.png" tvg-name="雍正王朝" x-latency-ms="93" x-speed-kbps="20882",雍正王朝
 http://173.208.234.146/live/lbyongzhengwc.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="青川综合" tvg-logo="https://tb.zbds.top/logo/青川综合.png" tvg-name="青川综合" x-latency-ms="771" x-speed-kbps="2120",青川综合
+#EXTINF:-1 group-title="地方台" tvg-id="青川综合" tvg-logo="https://tb.zbds.top/logo/青川综合.png" tvg-name="青川综合" x-latency-ms="649" x-speed-kbps="2343",青川综合
 http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="青海卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海卫视.png" tvg-name="青海卫视" x-latency-ms="143" x-speed-kbps="14591",青海卫视
-http://198.204.228.26/live/qhws.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="青海卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海卫视.png" tvg-name="青海卫视" x-latency-ms="189" x-speed-kbps="14521",青海卫视
-http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="青海卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海卫视.png" tvg-name="青海卫视" x-latency-ms="143" x-speed-kbps="14494",青海卫视
+#EXTINF:-1 group-title="卫视" tvg-id="青海卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海卫视.png" tvg-name="青海卫视" x-latency-ms="102" x-speed-kbps="22213",青海卫视
 http://107.150.60.122/live/qhws.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="青田电视台" tvg-logo="https://tb.zbds.top/logo/青田电视台.png" tvg-name="青田电视台" x-latency-ms="566" x-speed-kbps="2068",青田电视台
+#EXTINF:-1 group-title="卫视" tvg-id="青海卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海卫视.png" tvg-name="青海卫视" x-latency-ms="101" x-speed-kbps="21924",青海卫视
+http://198.204.228.26/live/qhws.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="青海卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海卫视.png" tvg-name="青海卫视" x-latency-ms="145" x-speed-kbps="21817",青海卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws
+#EXTINF:-1 group-title="地方台" tvg-id="青田电视台" tvg-logo="https://tb.zbds.top/logo/青田电视台.png" tvg-name="青田电视台" x-latency-ms="1964" x-speed-kbps="1891",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="靖宇" tvg-logo="https://tb.zbds.top/logo/靖宇.png" tvg-name="靖宇" x-latency-ms="972" x-speed-kbps="1625",靖宇
+#EXTINF:-1 group-title="地方台" tvg-id="靖宇" tvg-logo="https://tb.zbds.top/logo/靖宇.png" tvg-name="靖宇" x-latency-ms="788" x-speed-kbps="1417",靖宇
 http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
-#EXTINF:-1 group-title="地方台" tvg-id="音乐欣赏" tvg-logo="https://tb.zbds.top/logo/音乐欣赏.png" tvg-name="音乐欣赏" x-latency-ms="393" x-speed-kbps="1920",音乐欣赏
+#EXTINF:-1 group-title="地方台" tvg-id="音乐欣赏" tvg-logo="https://tb.zbds.top/logo/音乐欣赏.png" tvg-name="音乐欣赏" x-latency-ms="340" x-speed-kbps="2058",音乐欣赏
 http://61.221.215.25:8800/hls/49/index.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="音乐现场" tvg-logo="https://tb.zbds.top/logo/音乐现场.png" tvg-name="音乐现场" x-latency-ms="1020" x-speed-kbps="3810",音乐现场
+#EXTINF:-1 group-title="地方台" tvg-id="音乐现场" tvg-logo="https://tb.zbds.top/logo/音乐现场.png" tvg-name="音乐现场" x-latency-ms="822" x-speed-kbps="1095",音乐现场
 https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" tvg-name="风云剧场" x-latency-ms="149" x-speed-kbps="14604",风云剧场
-http://173.208.212.130:8181/720p/fyjc.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" tvg-name="风云剧场" x-latency-ms="215" x-speed-kbps="13655",风云剧场
+#EXTINF:-1 group-title="地方台" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" tvg-name="风云剧场" x-latency-ms="155" x-speed-kbps="21095",风云剧场
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
-#EXTINF:-1 group-title="地方台" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" tvg-name="风云剧场" x-latency-ms="931" x-speed-kbps="9623",风云剧场
+#EXTINF:-1 group-title="地方台" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" tvg-name="风云剧场" x-latency-ms="106" x-speed-kbps="20502",风云剧场
+http://173.208.212.130:8181/720p/fyjc.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" tvg-name="风云剧场" x-latency-ms="530" x-speed-kbps="16009",风云剧场
 http://207.56.13.146:81/cdnlive/fyjc.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" tvg-name="风云足球" x-latency-ms="216" x-speed-kbps="14563",风云足球
+#EXTINF:-1 group-title="地方台" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" tvg-name="风云足球" x-latency-ms="151" x-speed-kbps="20953",风云足球
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
-#EXTINF:-1 group-title="地方台" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" tvg-name="风云足球" x-latency-ms="1505" x-speed-kbps="14562",风云足球
-http://207.56.13.146:81/cdnlive/fyzq.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" tvg-name="风云足球" x-latency-ms="195" x-speed-kbps="14169",风云足球
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云足球.png" tvg-name="风云足球" x-latency-ms="173" x-resolution="640x360" x-speed-kbps="20895",风云足球
+https://t.freetv.fun/live/cctv-feng-yun-zu-qiu-4.m3u8
+#EXTINF:-1 group-title="地方台" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" tvg-name="风云足球" x-latency-ms="138" x-speed-kbps="20763",风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" tvg-name="风云音乐" x-latency-ms="221" x-speed-kbps="14636",风云音乐
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
-#EXTINF:-1 group-title="地方台" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" tvg-name="风云音乐" x-latency-ms="145" x-speed-kbps="14485",风云音乐
-http://173.208.212.130:8181/720p/fyyy.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" tvg-name="风云音乐" x-latency-ms="194" x-speed-kbps="14139",风云音乐
+#EXTINF:-1 group-title="地方台" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" tvg-name="风云音乐" x-latency-ms="126" x-speed-kbps="23029",风云音乐
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" tvg-name="高尔夫网球" x-latency-ms="216" x-speed-kbps="14496",高尔夫网球
+#EXTINF:-1 group-title="地方台" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" tvg-name="风云音乐" x-latency-ms="164" x-speed-kbps="22235",风云音乐
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
+#EXTINF:-1 group-title="地方台" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" tvg-name="风云音乐" x-latency-ms="99" x-speed-kbps="21615",风云音乐
+http://173.208.212.130:8181/720p/fyyy.m3u8
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" tvg-name="高尔夫网球" x-latency-ms="157" x-speed-kbps="23119",高尔夫网球
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
-#EXTINF:-1 group-title="地方台" tvg-id="高尔夫网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png" tvg-name="高尔夫网球" x-latency-ms="505" x-speed-kbps="9390",高尔夫网球
+#EXTINF:-1 group-title="地方台" tvg-id="高尔夫网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png" tvg-name="高尔夫网球" x-latency-ms="552" x-speed-kbps="13305",高尔夫网球
 http://207.56.13.146:81/cdnlive/gefwq.m3u8
-#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" tvg-name="高尔夫网球" x-latency-ms="334" x-speed-kbps="7501",高尔夫网球
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" tvg-name="高尔夫网球" x-latency-ms="536" x-speed-kbps="6946",高尔夫网球
 http://104.152.209.49:8181/720p/gefwq.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" tvg-name="黑龙江卫视" x-latency-ms="142" x-speed-kbps="14717",黑龙江卫视
+#EXTINF:-1 group-title="地方台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/魅力足球.png" tvg-name="魅力足球" x-latency-ms="266" x-resolution="640x360" x-speed-kbps="1194",魅力足球
+https://stream1.freetv.fun/mei-li-zu-qiu-1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" tvg-name="黑龙江卫视" x-latency-ms="91" x-speed-kbps="24502",黑龙江卫视
 http://198.204.228.26/live/hljwshd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" tvg-name="黑龙江卫视" x-latency-ms="190" x-speed-kbps="14515",黑龙江卫视
-http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-id="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" tvg-name="黑龙江卫视" x-latency-ms="216" x-speed-kbps="14472",黑龙江卫视
+#EXTINF:-1 group-title="卫视" tvg-id="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" tvg-name="黑龙江卫视" x-latency-ms="233" x-speed-kbps="13562",黑龙江卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd
-#EXTINF:-1 group-title="地方台" tvg-id="龙井" tvg-logo="https://tb.zbds.top/logo/龙井.png" tvg-name="龙井" x-latency-ms="1837" x-speed-kbps="1297",龙井
+#EXTINF:-1 group-title="卫视" tvg-id="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" tvg-name="黑龙江卫视" x-latency-ms="229" x-speed-kbps="12838",黑龙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="地方台" tvg-id="龙井" tvg-logo="https://tb.zbds.top/logo/龙井.png" tvg-name="龙井" x-latency-ms="762" x-speed-kbps="1718",龙井
 http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
-#EXTINF:-1 group-title="地方台" tvg-id="龙泉新闻综合" tvg-logo="https://tb.zbds.top/logo/龙泉新闻综合.png" tvg-name="龙泉新闻综合" x-latency-ms="613" x-speed-kbps="1551",龙泉新闻综合
-http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="龙游新闻综合" tvg-logo="https://tb.zbds.top/logo/龙游新闻综合.png" tvg-name="龙游新闻综合" x-latency-ms="1109" x-speed-kbps="1563",龙游新闻综合
-https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="龙游生活娱乐" tvg-logo="https://tb.zbds.top/logo/龙游生活娱乐.png" tvg-name="龙游生活娱乐" x-latency-ms="1226" x-speed-kbps="1609",龙游生活娱乐
-https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
